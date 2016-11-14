@@ -1,0 +1,931 @@
+Label,Location,Manufacturer,Model,Firmware,Health,Inlet 1 L1 Current (A),Inlet 1 L2 Current (A),Inlet 1 L3 Current (A),Inlet 2 L1 Current (A),Inlet 2 L2 Current (A),Inlet 2 L3 Current (A),Inlet 3 L1 Current (A),Inlet 3 L2 Current (A),Inlet 3 L3 Current (A),Inlet 4 L1 Current (A),Inlet 4 L2 Current (A),Inlet 4 L3 Current (A),Active Power (W),Apparent Power (VA),Inlet Temperature (F),Belongs to
+rpc365,BE1005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,7.43,8.95,6.53,,,,,,,,,,5259.0,5349.0,,BE1005
+rpc365,BE1005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,4.07,3.69,3.07,,,,,,,,,,2348.0,2532.0,,BE1005
+rpc368,BE1008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.91,0.0,0.0,,,,,,,,,,189.0,212.0,,BE1008
+rpc415,BF2007,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,11.55,1.17,11.22,,,,,,,,,,5160.0,5534.0,,BF2007
+rpc420,BF2012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.95,1.18,1.19,,,,,,,,,,875.0,1007.0,,BF2012
+rpc378,be2006,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.26,2.8,2.71,,,,,,,,,,1571.0,1815.0,,BE2006
+rpc369,BE1009,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.58,2.07,7.0,,,,,,,,,,2319.0,2486.0,,BE1009
+rpc-as6-3,as-06r3,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,7.84,,,,,,,,,,,,1538.0,1617.0,,R3
+rpc377,BE2005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.92,0.0,0.0,,,,,,,,,,186.0,213.0,,BE2005
+rpc377,BE2005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.93,0.0,0.0,,,,,,,,,,191.0,216.0,,BE2005
+rpc373,BE2001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.53,3.27,2.76,,,,,,,,,,1573.0,1761.0,,BE2001
+rpc-as6-4,as-06r4,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,4.41,,,,,,,,,,,,872.0,908.0,,R4
+rpc-ap6-5,AP6-5,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,9.51,,,,,,,,,,,,1894.0,1962.0,,R5
+rpc384,be2012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.61,3.35,2.83,,,,,,,,,,1598.0,1795.0,,BE2012
+rpc387,BE3003,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.5,0.0,0.0,,,,,,,,,,758.0,816.0,,BE3003
+rpc419,BF2011,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.24,1.08,1.16,,,,,,,,,,676.0,814.0,,BF2011
+rpc387,BE3003,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,6.24,0.0,0.0,,,,,,,,,,1414.0,1454.0,,BE3003
+rpc413,BF2005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.14,10.28,2.93,,,,,,,,,,3831.0,4047.0,,BF2005
+rpc419,BF2011,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.25,1.18,1.03,,,,,,,,,,653.0,796.0,,BF2011
+rpc389,BE3005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.85,0.0,0.0,,,,,,,,,,1092.0,1130.0,,BE3005
+rpc412,BF2004,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,5.95,11.02,5.71,,,,,,,,,,5141.0,5288.0,,BF2004
+rpc437,BF2012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,5.12,5.15,0.61,,,,,,,,,,2374.0,2543.0,,BF2012
+rpc437,BF2012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.22,5.22,2.74,,,,,,,,,,2484.0,2572.0,,BF2012
+rpc413,BF2005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,6.7,5.71,4.86,,,,,,,,,,3836.0,4015.0,,BF2005
+rpc361,BE1001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.48,0.82,0.99,,,,,,,,,,391.0,769.0,,BE1001
+rpc-mdf2-2,MDF2-2,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,3.76,,,,,,,,,,,,731.0,775.0,,MDF2-R2
+rpc416,BF2008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.78,1.09,1.05,,,,,,,,,,527.0,683.0,,BF2008
+rpc433,BF2008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.89,0.63,3.16,,,,,,,,,,1364.0,1544.0,,BF2008
+rpc397,BF1001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.34,1.9,1.74,,,,,,,,,,1280.0,1397.0,,BF1001
+rpc414,BF2006,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,4.18,10.45,3.14,,,,,,,,,,3935.0,4165.0,,BF2006
+rpc-ap6-4,ap-06-r4,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,4.13,,,,,,,,,,,,821.0,853.0,,R4
+rpc401,BF1005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BF1005
+rpc386,BE3002,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.68,2.9,2.83,,,,,,,,,,2147.0,2194.0,,BE3002
+rpc392,BE3008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BE3008
+rpc409,bf2001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.55,3.6,3.59,,,,,,,,,,2406.0,2511.0,,BF2001
+rpc394,BE3010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.9,0.0,0.0,,,,,,,,,,184.0,210.0,,BE3010
+rpc388,BE3004,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,5.51,0.0,0.0,,,,,,,,,,1245.0,1284.0,,BE3004
+rpc-ap6-5,AP6-5,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,7.01,,,,,,,,,,,,1370.0,1449.0,,R5
+rpc386,BE3002,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.71,2.86,2.96,,,,,,,,,,2179.0,2227.0,,BE3002
+rpc-as6-3,as-06r3,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,10.0,,,,,,,,,,,,1997.0,2070.0,,R3
+rpc-ap6-3,ap-06-r3,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,8.03,,,,,,,,,,,,1595.0,1663.0,,R3
+rpc367,BE1007,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.21,0.0,0.0,,,,,,,,,,266.0,282.0,,BE1007
+rpc398,BF1002,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.92,0.0,0.0,,,,,,,,,,191.0,215.0,,BF1002
+rpc370,BE1010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.94,1.89,8.71,,,,,,,,,,2595.0,2720.0,,BE1010
+rpc371,BE1011,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.9,0.0,0.0,,,,,,,,,,187.0,210.0,,BE1011
+rpc400,BF1004,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.54,0.0,0.0,,,,,,,,,,314.0,359.0,,BF1004
+rpc370,BE1010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.89,1.77,8.8,,,,,,,,,,2557.0,2692.0,,BE1010
+rpc433,BF2008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.09,0.63,3.02,,,,,,,,,,1386.0,1566.0,,BF2008
+rpc416,BF2008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.85,0.91,0.93,,,,,,,,,,466.0,626.0,,BF2008
+rpc434,BF2009,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.85,2.87,5.06,,,,,,,,,,2430.0,2511.0,,BF2009
+hilidcpdurack1,hillsboro idc rack 1,ServerTech,CW-24V2C458C1,Sentry Switched CDU Version 7.0k,Good,4.84,,,,,,,,,,,,949.0,999.0,73.6,IDC R2
+rpc390,BE3006,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.93,0.0,0.0,,,,,,,,,,902.0,917.0,,BE3006
+rpc417,BF2009,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.81,0.67,1.51,,,,,,,,,,543.0,697.0,,BF2009
+rpc408,BF1012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.4,0.0,2.05,,,,,,,,,,511.0,576.0,,BF1012
+rpc434,BF2009,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.74,5.39,2.73,,,,,,,,,,2456.0,2535.0,,BF2009
+rpc403,BF1007,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.93,0.0,0.0,,,,,,,,,,1122.0,1150.0,,BF1007
+rpc425,BF3005,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,8.71,10.05,4.08,,,,,,,,,,5155.0,5266.0,,BF3005
+rpc406,BF1010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.25,0.0,0.0,,,,,,,,,,735.0,759.0,,BF1010
+rpc393,BE3009,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.93,0.0,1.95,,,,,,,,,,825.0,900.0,,BE3009
+rpc396,BE3012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.41,1.65,1.76,,,,,,,,,,1247.0,1360.0,,BE3012
+rpc388,BE3004,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.24,0.0,0.0,,,,,,,,,,706.0,755.0,,BE3004
+rpc392,BE3008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BE3008
+rpc-as6-4,as-06r4,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,4.2,,,,,,,,,,,,831.0,866.0,,R4
+rpc-ap6-3,ap-06-r3,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,9.7,,,,,,,,,,,,1923.0,2001.0,,R3
+rpc410,BF2002,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BF2002
+rpc368,BE1008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.87,0.0,0.0,,,,,,,,,,180.0,203.0,,BE1008
+rpc-as6-2,as-06r2,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,6.34,,,,,,,,,,,,1238.0,1308.0,,R2
+rpc-as6-5,AS6-5,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,7.27,,,,,,,,,,,,1423.0,1501.0,,R5
+rpc417,BF2009,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.79,1.59,0.65,,,,,,,,,,546.0,703.0,,BF2009
+rpc414,BF2006,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.03,10.55,3.15,,,,,,,,,,3913.0,4140.0,,BF2006
+rpc-mdf1-2,MDF1-R2,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,3.77,,,,,,,,,,,,731.0,777.0,,MDF1-R2
+rpc-mdf2-2,MDF2-2,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,3.72,,,,,,,,,,,,723.0,768.0,,MDF2-R2
+rpc-as6-5,AS6-5,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,9.01,,,,,,,,,,,,1791.0,1860.0,,R5
+rpc425,BF3005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.89,3.75,4.2,,,,,,,,,,2602.0,2775.0,,BF3005
+rpc415,BF2007,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,6.1,11.42,5.63,,,,,,,,,,5186.0,5378.0,,BF2007
+rpc411,BF2003,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.19,10.12,2.98,,,,,,,,,,3594.0,3794.0,,BF2003
+rpc-mdf1-8,MDF1-R8,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,5.56,,,,,,,,,,,,1031.0,1146.0,,MDF1-R8
+rpc436,BF2011,ServerTech,ServerTech-Default,Sentry Switched CDU Version 7.0v,Critical,,,,,,,,,,,,,,,,BF2011
+rpc420,BF2012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.35,1.03,0.98,,,,,,,,,,650.0,776.0,,BF2012
+rpc430,BF3010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.3,0.0,3.1,,,,,,,,,,963.0,1034.0,,BF3010
+rpc379,BE2007,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.1,3.18,4.45,,,,,,,,,,2248.0,2502.0,,BE2007
+rpc362,BE1002,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.15,7.79,7.56,,,,,,,,,,4433.0,4558.0,,BE1002
+rpc383,BE2011,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.48,2.08,7.08,,,,,,,,,,2267.0,2483.0,,BE2011
+rpc372,BE1012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.89,0.0,0.0,,,,,,,,,,185.0,208.0,,BE1012
+rpc421,BF3001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,8.85,8.5,8.66,,,,,,,,,,6022.0,6075.0,,BF3001
+rpc372,BE1012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.9,0.0,0.0,,,,,,,,,,185.0,209.0,,BE1012
+rpc-mdf1-2,MDF1-R2,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,3.69,,,,,,,,,,,,716.0,760.0,,MDF1-R2
+rpc385,BE3001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.24,0.0,3.37,,,,,,,,,,997.0,1082.0,,BE3001
+rpc403,BF1007,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.36,0.0,0.0,,,,,,,,,,739.0,783.0,,BF1007
+rpc371,BE1011,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.89,0.0,0.0,,,,,,,,,,185.0,208.0,,BE1011
+rpc397,BF1001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.5,1.93,6.41,,,,,,,,,,2474.0,2552.0,,BF1001
+rpc383,BE2011,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.26,2.05,6.71,,,,,,,,,,2139.0,2346.0,,BE2011
+rpc418,BF2010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.86,1.13,1.14,,,,,,,,,,590.0,729.0,,BF2010
+rpc362,BE1002,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.16,1.23,2.46,,,,,,,,,,778.0,1131.0,,BE1002
+rpc363,BE1003,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.83,7.69,6.57,,,,,,,,,,3922.0,3989.0,,BE1003
+rpc379,BE2007,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.09,3.22,4.86,,,,,,,,,,2366.0,2609.0,,BE2007
+rpc401,BF1005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BF1005
+rpc399,BF1003,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.94,0.0,0.0,,,,,,,,,,197.0,219.0,,BF1003
+rpc408,BF1012,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.38,0.0,2.05,,,,,,,,,,504.0,566.0,,BF1012
+rpc399,BF1003,ServerTech,CX-48V52458A1/0,Sentry Switched CDU Version 7.0v,Good,0.84,0.0,0.0,,,,,,,,,,169.0,194.0,,BF1003
+rpc-as6-2,as-06r2,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,6.78,,,,,,,,,,,,1344.0,1405.0,,R2
+rpc410,BF2002,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,BF2002
+rpc-mdf2-8,MDF2-R8,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,4.76,,,,,,,,,,,,866.0,983.0,,MDF2-R8
+rpc393,BE3009,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.83,0.0,2.0,,,,,,,,,,821.0,894.0,,BE3009
+rpc394,BE3010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.94,0.0,0.0,,,,,,,,,,194.0,219.0,,BE3010
+rpc409,bf2001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.54,0.56,1.35,,,,,,,,,,463.0,797.0,,BF2001
+rpc385,BE3001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.26,0.0,3.55,,,,,,,,,,1043.0,1119.0,,BE3001
+rpc396,BE3012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.33,1.53,6.21,,,,,,,,,,2279.0,2350.0,,BE3012
+rpc405,BF1009,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,4.09,0.0,0.0,,,,,,,,,,881.0,955.0,,BF1009
+rpc405,BF1009,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,5.86,0.0,0.0,,,,,,,,,,1320.0,1367.0,,BF1009
+rpc404,BF1008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,3.24,0.0,0.0,,,,,,,,,,740.0,755.0,,BF1008
+rpc395,BE3011,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.93,0.0,1.5,,,,,,,,,,497.0,564.0,,BE3011
+rpc-ap6-2,ap-06-r2,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,7.23,,,,,,,,,,,,1437.0,1497.0,,R2
+rpc404,BF1008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.62,0.0,0.0,,,,,,,,,,592.0,612.0,,BF1008
+rpc421,BF3001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.64,0.96,0.85,,,,,,,,,,365.0,810.0,,BF3001
+rpc-ap6-4,ap-06-r4,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,4.44,,,,,,,,,,,,882.0,917.0,,R4
+rpc-ap6-2,ap-06-r2,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,7.37,,,,,,,,,,,,1447.0,1518.0,,R2
+rpc395,BE3011,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.96,0.0,1.34,,,,,,,,,,458.0,532.0,,BE3011
+rpc435,BF2010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.77,5.24,2.56,,,,,,,,,,2396.0,2473.0,,BF2010
+rpc424,BF3004,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.58,7.33,6.51,,,,,,,,,,3442.0,3535.0,,BF3004
+rpc361,BE1001,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,8.43,8.62,8.04,,,,,,,,,,5807.0,5857.0,,BE1001
+rpc389,BE3005,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,4.04,0.0,0.0,,,,,,,,,,904.0,942.0,,BE3005
+rpc429,BF3009,ServerTech,ServerTech-Default,Sentry Switched CDU Version 7.0v,Good,4.56,2.96,2.89,,,,,,,,,,2366.0,2431.0,,BF3009
+hilidcpducab1,Hillsboro,ServerTech,CW-24V2C458C1,Sentry Switched CDU Version 7.0k,Good,3.16,,,,,,,,,,,,625.0,658.0,73.6,IDC CAB3
+rpc-mdf1-8,MDF1-R8,ServerTech,CW-24V2C458C1/RB,Sentry Switched CDU Version 7.0v,Good,5.57,,,,,,,,,,,,1027.0,1147.0,,MDF1-R8
+rpc436,BF2011,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.63,5.11,2.86,,,,,,,,,,2363.0,2437.0,,BF2011
+rpc390,BE3006,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,3.29,0.0,0.0,,,,,,,,,,740.0,765.0,,BE3006
+rpc435,BF2010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,2.77,5.09,2.77,,,,,,,,,,2408.0,2480.0,,BF2010
+rpc398,BF1002,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.88,0.0,0.0,,,,,,,,,,182.0,204.0,,BF1002
+rpc378,be2006,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.28,2.9,2.99,,,,,,,,,,1668.0,1912.0,,BE2006
+rpc423,BF3003,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.93,7.46,7.16,,,,,,,,,,3559.0,3634.0,,BF3003
+rpc-mdf2-8,MDF2-R8,ServerTech,CX-24V2C458C1/BB,Sentry Switched CDU Version 7.0v,Good,5.6,,,,,,,,,,,,1043.0,1157.0,,MDF2-R8
+rpc426,BF3006,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.04,0.8,1.07,,,,,,,,,,393.0,681.0,,BF3006
+rpc430,BF3010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.24,0.0,3.24,,,,,,,,,,976.0,1039.0,,BF3010
+rpc426,BF3006,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.98,2.48,8.04,,,,,,,,,,2867.0,2930.0,,BF3006
+rpc406,BF1010,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,4.1,0.0,0.0,,,,,,,,,,931.0,955.0,,BF1010
+rpc422,BF3002,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.96,10.34,7.63,,,,,,,,,,4283.0,4408.0,,BF3002
+rpc428,BF3008,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.75,4.75,3.85,,,,,,,,,,2326.0,2414.0,,BF3008
+rpc423,BF3003,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.95,3.93,2.7,,,,,,,,,,1664.0,1771.0,,BF3003
+rpc422,BF3002,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.97,2.4,2.41,,,,,,,,,,1059.0,1359.0,,BF3002
+rpc427,BF3007,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.47,5.99,2.47,,,,,,,,,,2237.0,2324.0,,BF3007
+rpc428,BF3008,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.42,4.34,4.05,,,,,,,,,,2193.0,2295.0,,BF3008
+rpc427,BF3007,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.65,5.46,5.78,,,,,,,,,,2884.0,2962.0,,BF3007
+rpc429,BF3009,ServerTech,CWG48VN-5CFN58AC/AB,Sentry Switched CDU Version 7.0v,Good,4.53,2.93,2.87,,,,,,,,,,2344.0,2409.0,,BF3009
+rpc373,BE2001,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.72,3.34,2.47,,,,,,,,,,1577.0,1759.0,,BE2001
+rpc384,be2012,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.52,3.27,2.54,,,,,,,,,,1522.0,1706.0,,BE2012
+rpc418,BF2010,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,0.83,1.08,1.1,,,,,,,,,,548.0,700.0,,BF2010
+hilidcpdurack2,No Location,ServerTech,CW-24V2C458C1,Sentry Switched CDU Version 7.0k,Good,5.46,,,,,,,,,,,,1069.0,1128.0,71.4,IDC R1
+rpc412,BF2004,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,5.94,10.99,5.47,,,,,,,,,,5077.0,5227.0,,BF2004
+rpc364,BE1004,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.76,5.0,2.54,,,,,,,,,,2030.0,2172.0,,BE1004
+rpc424,BF3004,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.72,3.78,3.97,,,,,,,,,,2105.0,2221.0,,BF3004
+rpc411,BF2003,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,5.87,7.47,3.0,,,,,,,,,,3582.0,3764.0,,BF2003
+rpc363,BE1003,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.09,3.78,3.62,,,,,,,,,,1858.0,1989.0,,BE1003
+rpc364,BE1004,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.74,6.47,7.3,,,,,,,,,,3771.0,3861.0,,BE1004
+rpc367,BE1007,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,0.48,0.0,0.0,,,,,,,,,,96.0,111.0,,BE1007
+rpc366,BE1006,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,2.18,4.2,8.06,,,,,,,,,,3287.0,3366.0,,BE1006
+rpc366,BE1006,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.27,1.01,1.04,,,,,,,,,,442.0,767.0,,BE1006
+rpc400,BF1004,ServerTech,CW-48V52458A1/RB,Sentry Switched CDU Version 7.0v,Good,1.65,0.0,0.0,,,,,,,,,,344.0,386.0,,BF1004
+rpc369,BE1009,ServerTech,CX-48V52458A1/BB,Sentry Switched CDU Version 7.0v,Good,1.93,1.86,6.85,,,,,,,,,,2322.0,2505.0,,BE1009
+ATSRD2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.6,2.8,3.3,,,,,,,,,,803.0,1038.0,,D2
+ATSRD0PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.5,0.7,0.3,,,,,,,,,,74.0,163.0,,D0
+ATSRC7PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.6,1.6,0.0,,,,,,,,,,247.0,333.0,,C7
+etsr1e4pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.1,1.5,,,,,,,,,,600.0,661.0,73.9,E-4
+ETSR1I2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.7,3.6,1.3,,,,,,,,,,767.0,814.0,73.4,I-2
+ATSRD5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.2,13.8,12.6,,,,,,,,,,2913.0,3047.0,,D5
+ETSR1L5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.7,5.7,4.4,,,,,,,,,,1991.0,2035.0,69.3,L-5
+ETSR1I1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.4,3.9,1.9,,,,,,,,,,1039.0,1145.0,71.8,I-1
+ATSRB8PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,2.6,2.2,,,,,,,,,,685.0,847.0,,B8
+ATSRC5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.4,0.4,0.0,,,,,,,,,,81.0,88.0,,C5
+ATSRD5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.6,13.4,11.9,,,,,,,,,,2902.0,3021.0,,D5
+ATSRD8PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.6,1.8,1.5,,,,,,,,,,318.0,592.0,,D8
+ATSRC5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.3,0.3,0.0,,,,,,,,,,42.0,53.0,,C5
+ETSR1K4PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,2.82,1.08,2.62,,,,,,,,,,606.0,724.0,76.1,K-4
+ETSR1I1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.7,0.4,5.7,,,,,,,,,,1136.0,1234.0,72.3,I-1
+ETSR1J1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.6,2.7,2.7,,,,,,,,,,952.0,1043.0,76.1,J-1
+ETSR1L3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.9,2.8,0.6,,,,,,,,,,602.0,666.0,74.1,L-3
+ETSR1I4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,7.9,6.4,10.2,,,,,,,,,,2695.0,2788.0,74.5,I-4
+ETSR1L1PDUA,,Raritan,PX2-5339R,3.1.0.5-42165,Good,1.5,1.9,0.7,,,,,,,,,,415.0,440.0,,L-1
+ETSR1I2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.5,2.6,0.1,,,,,,,,,,473.0,530.0,72.0,I-2
+ETSR1I4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.2,1.2,0.1,,,,,,,,,,218.0,257.0,72.9,I-4
+Tyo19B-pdu-1,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,5.068,,,,,,,,,,,,909.0,1001.0,,ServerRack1
+ETSR1J1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,3.1,3.5,,,,,,,,,,930.0,1029.0,74.7,J-1
+ATSRD6PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.7,2.7,2.1,,,,,,,,,,660.0,902.0,,D6
+ATSRE1PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.8,0.9,0.2,,,,,,,,,,203.0,208.0,64.4,E1
+ETSR1K4PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,0.95,2.9,2.49,,,,,,,,,,580.0,692.0,75.2,K-4
+ETSR1K1PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,5.32,4.03,4.93,,,,,,,,,,1475.0,1612.0,76.1,K-1
+seamsrpdu19-3-2,seattle MSR 19-3,Raritan,DPXS20-20L,1.4.1-10051,Critical,,,,,,,,,,,,,,,,19-3
+ETSR1J2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.2,0.2,0.0,,,,,,,,,,17.0,31.0,74.7,J-2
+ATSRE1PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.1,1.3,0.3,,,,,,,,,,235.0,282.0,63.0,E1
+ETSR1B1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.9,5.6,5.6,,,,,,,,,,1781.0,1886.0,73.4,B-1
+ATSRE6PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.9,5.7,5.4,,,,,,,,,,1823.0,1904.0,63.5,E6
+ATSRC2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.2,2.6,2.0,,,,,,,,,,603.0,813.0,,C2
+ATSRB4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.4,3.9,4.7,,,,,,,,,,1213.0,1426.0,,B4
+ETSR2-Z2D05-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,3.29,3.55,3.83,,,,,,,,,,865.0,1290.0,,Z2D05
+ATSRE3PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,1.8,1.8,0.9,,,,,,,,,,369.0,511.0,,E3
+ETSR1K5PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,0.48,0.57,0.16,,,,,,,,,,71.0,133.0,75.2,K-5
+ETSR2-Z2A02-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,12.27,12.27,16.22,,,,,,,,,,4683.0,4683.0,,Z2A02
+ATSRB2PDUA,,Raritan,PX2-5522-E2N1,2.5.30.5-41228,Good,2.5,3.2,3.5,,,,,,,,,,926.0,1089.0,,B2
+ETSR1J5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,2.0,2.1,,,,,,,,,,468.0,610.0,73.8,J-5
+ETSR1L4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.5,2.3,1.5,,,,,,,,,,636.0,726.0,70.0,L-4
+ETSR2-Z2A03-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,9.29,13.24,12.91,,,,,,,,,,4099.0,4285.0,,Z2A03
+etsr1f3pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.2,1.4,0.3,,,,,,,,,,175.0,310.0,77.9,F-3
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,7.03,5.89,1.93,,,,,,,,,,1542.0,1612.0,69.8,""
+ATSRA0PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,2.3,2.0,,,,,,,,,,627.0,791.0,72.0,A0
+ETSR2-Z2A07-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,3.64,3.64,0.0,,,,,,,,,,662.0,724.0,,Z2A07
+ETSR2-Z2E12-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,1.88,4.13,2.82,,,,,,,,,,945.0,988.0,,Z2E12
+8th Floor IDC East Wing Rack 2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1412.0,1489.0,73.0,8th floor IDC – East
+ETSR1A1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.3,5.9,10.3,,,,,,,,,,2711.0,2780.0,74.1,A-1
+ETSR1L2PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,8.61,10.54,9.53,,,,,,,,,,3139.0,3282.0,71.6,L-2
+ATSRB6PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,3.3,1.7,,,,,,,,,,677.0,824.0,,B6
+ETSR2-Z2A07-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,2.25,2.25,0.0,,,,,,,,,,355.0,464.0,,Z2A07
+ATSRD9PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.3,0.5,1.0,,,,,,,,,,283.0,311.0,,D9
+ETSR1L1PDUB,,Raritan,PX2-5339R,3.1.0.5-42165,Good,2.0,0.9,1.4,,,,,,,,,,442.0,466.0,,L-1
+ATSRC7PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.9,0.9,0.0,,,,,,,,,,162.0,178.0,,C7
+ETSR2-Z2A10-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,7.78,7.58,5.32,,,,,,,,,,2300.0,2404.0,,Z2A10
+ATSRC6PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,C6
+ATSRE2PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.6,4.0,2.0,,,,,,,,,,758.0,952.0,70.7,E2
+ATSRD9PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,1.6,1.6,,,,,,,,,,563.0,597.0,,D9
+ATSRD7PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.8,2.5,3.1,,,,,,,,,,868.0,1003.0,,D7
+ETSR1A3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.5,4.3,2.6,,,,,,,,,,1081.0,1306.0,72.5,A-3
+ETSR1A3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,7.1,7.6,7.4,,,,,,,,,,2449.0,2596.0,75.6,A-3
+ETSR1A1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.8,3.5,3.4,,,,,,,,,,1103.0,1255.0,73.6,A-1
+ETSR1C3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,1.0,1.1,,,,,,,,,,228.0,375.0,72.7,C-3
+ETSR1L4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.4,1.5,1.3,,,,,,,,,,398.0,496.0,69.3,L-4
+ATSRB9PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,2.6,2.1,,,,,,,,,,609.0,767.0,,B9
+ETSR1A2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.1,11.4,9.3,,,,,,,,,,3355.0,3427.0,74.5,A-2
+ATSRD3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.6,4.0,0.8,,,,,,,,,,704.0,911.0,,D3
+ETSR1L3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.0,1.0,0.0,,,,,,,,,,123.0,207.0,69.4,L-3
+atsra9pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.4,3.4,2.4,,,,,,,,,,1038.0,1101.0,,A9
+ETSR1C4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,1.5,0.6,,,,,,,,,,252.0,354.0,73.0,C-4
+ATSRE2PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.3,4.0,2.3,,,,,,,,,,803.0,960.0,63.7,E2
+ETSR1C3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.7,2.9,2.6,,,,,,,,,,771.0,823.0,74.1,C-3
+etsr1f5pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.5,2.2,1.2,,,,,,,,,,246.0,547.0,76.8,F-5
+ETSR1A2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.6,2.8,4.2,,,,,,,,,,1191.0,1346.0,73.0,A-2
+ETSR1C2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.0,3.6,3.0,,,,,,,,,,969.0,1116.0,73.2,C-2
+ATSRD3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.8,7.9,5.2,,,,,,,,,,1781.0,1873.0,,D3
+ETSR1L5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.1,11.2,7.1,,,,,,,,,,2587.0,2684.0,70.0,L-5
+ATSRB9PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,2.4,1.9,,,,,,,,,,545.0,709.0,,B9
+etsr1f1pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.1,3.8,2.3,,,,,,,,,,1011.0,1061.0,76.1,F-1
+8th Floor IDC West Wing Rack 3,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.7,,,,,,,,,,,,1265.0,1321.0,74.1,8th floor IDC – West
+ATSRB5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.6,3.7,2.6,,,,,,,,,,945.0,1036.0,,B5
+ETSR2-Z2A10-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,7.03,7.03,5.46,,,,,,,,,,2200.0,2300.0,,Z2A10
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.68,5.46,1.93,,,,,,,,,,1475.0,1612.0,,""
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.3,0.3,0.0,,,,,,,,,,28.0,62.0,,""
+lehi-cdumsr1aa05a,,Raritan,PX2-5701,3.1.0.5-42165,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,AA05
+etsr1e2pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.9,1.4,1.6,,,,,,,,,,479.0,566.0,73.4,E-2
+etsr1f1pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.9,1.5,1.0,,,,,,,,,,178.0,382.0,74.8,F-1
+DFWSAV-3105PDUA,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,9.77,7.21,8.39,,,,,,,,,,2872.0,3003.0,,3105
+etsr2z1d02pdub,ETSR-2,Raritan,PX-5522,1.5.8-11272,Good,11.67,12.91,12.27,,,,,,,,,,4480.0,4480.0,,Z1D02
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,""
+etsr2z1d02pdua,ETSR-2,Raritan,PX-5522,1.5.8-11272,Good,13.93,14.29,13.58,,,,,,,,,,4683.0,4896.0,,Z1D02
+dfwsav-3103pdua,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.69,4.93,4.03,,,,,,,,,,1542.0,1612.0,,3103
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.38,0.38,0.0,,,,,,,,,,75.0,82.0,,""
+dfwsav-3108pdub,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,2.49,2.9,4.03,,,,,,,,,,988.0,1080.0,,3108
+ATSRE4PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,10.1,13.0,7.0,,,,,,,,,,3087.0,3457.0,72.0,E4
+etsr1e3pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.5,1.9,2.1,,,,,,,,,,715.0,768.0,72.0,E-3
+ATSRB7PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.5,1.9,,,,,,,,,,607.0,762.0,,B7
+ETSR1J3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.1,1.1,3.3,,,,,,,,,,609.0,832.0,72.3,J-3
+atsra7pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.9,9.3,6.4,,,,,,,,,,2416.0,2490.0,,A7
+etsr1e3pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.4,1.8,2.1,,,,,,,,,,698.0,739.0,73.0,E-3
+ETSR1B4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.2,3.1,2.3,,,,,,,,,,826.0,1083.0,71.8,B-4
+NOI25A-6F-IDC1-L7-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,4.8,,,,,,,,,,,,1010.0,1102.0,,""
+lehi-cdumsr1aa02b,,Raritan,PX2-5701,3.1.0.5-42165,Good,2.1,2.1,0.0,,,,,,,,,,388.0,447.0,,AA02
+ETSR1B2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.3,9.6,9.8,,,,,,,,,,3142.0,3225.0,76.5,B-2
+seamsrpdu23-3-2,seattle msr cab 23-3,Raritan,DPXR20-20L,1.4.1-10051,Good,0.0,,,,,,,,,,,,0.0,0.0,,23-3
+dfwsav-3110pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,3.37,4.81,6.19,,,,,,,,,,1410.0,1612.0,,3110
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.24,0.24,0.0,,,,,,,,,,42.0,50.0,,""
+lehi-cdumsr1aa02a,,Raritan,PX2-5701,3.1.0.5-42165,Good,2.8,2.8,0.0,,,,,,,,,,522.0,571.0,,AA02
+ETSR2-Z1B01-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.74,5.46,6.04,,,,,,,,,,1925.0,2013.0,,Z1B01
+ottmdc-network-pdu1,Unknown,Raritan,DPXR20A-20L6,1.5.5-10603,Good,2.37,,,,,,,,,,,,371.0,485.0,71.6,Rack 2
+lehi-cdumsr1aa01a,,Raritan,PX2-5701,3.1.0.5-42165,Good,2.3,2.3,0.0,,,,,,,,,,426.0,480.0,64.2,AA01
+ETSR1B5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.9,9.2,6.5,,,,,,,,,,2752.0,2842.0,74.7,B-5
+du1ats-e7,,Raritan,PX3TS-1875CR,3.1.0.5-42165,Good,1.542,0.062,,,,,,,,,,,316.0,367.0,,E-07
+ATSRC9PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.2,3.0,3.1,,,,,,,,,,915.0,1106.0,,C9
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.52,0.52,0.0,,,,,,,,,,98.0,112.0,,""
+lehi-cdumsr1aa03a,,Raritan,PX2-5701,3.1.0.5-42165,Good,1.3,1.5,0.3,,,,,,,,,,282.0,347.0,,AA03
+DFWSAV-3105PDUB,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.6,6.35,3.37,,,,,,,,,,1542.0,1761.0,,3105
+ETSR1B5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.0,3.4,2.7,,,,,,,,,,980.0,1177.0,72.3,B-5
+ETSR1B3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,14.4,11.8,17.1,,,,,,,,,,4924.0,4983.0,74.1,B-3
+du1ats-e8,,Raritan,PX3TS-1875CR,3.1.0.5-42165,Good,1.804,0.066,,,,,,,,,,,392.0,422.0,,E-08
+ETSR1G4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.3,1.8,2.8,,,,,,,,,,556.0,896.0,77.5,G-4
+ATSRE5PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.4,3.0,1.0,,,,,,,,,,637.0,706.0,64.0,E5
+ATSRE4PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,8.9,11.5,6.5,,,,,,,,,,2841.0,3100.0,64.6,E4
+atsra7pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.4,6.0,3.1,,,,,,,,,,1609.0,1704.0,,A7
+ETSR1B4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.7,12.7,12.1,,,,,,,,,,3867.0,3999.0,72.7,B-4
+sg1pdu-1024-1,sg1pdu-1024-1,Raritan,PX-5469,1.5.8-11272,Good,7.03,,,,,,,,,,,,1475.0,1685.0,,1024
+ETSR1H3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.4,14.2,8.0,,,,,,,,,,3241.0,3284.0,72.1,H-3
+ETSR2-Z2D03-PDUB,etsr2 cab z2d03,Raritan,PX-5522,1.5.8-11272,Good,2.25,2.55,0.88,,,,,,,,,,606.0,634.0,,Z2D03
+ottmdc-network-pdu2,Unknown,Raritan,DPXR20A-20L6,1.5.5-10603,Good,2.62,,,,,,,,,,,,425.0,530.0,,Rack 2
+ETSR1G3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.2,1.8,2.7,,,,,,,,,,552.0,871.0,76.3,G-3
+ETSR1G1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.6,6.5,3.9,,,,,,,,,,1851.0,1937.0,74.8,G-1
+ETSR1G2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.8,11.9,8.9,,,,,,,,,,3460.0,3515.0,78.4,G-2
+WTSRNR2PDUB,,Raritan,PX2-5339R,3.1.0.5-42165,Good,1.1,4.2,3.5,,,,,,,,,,895.0,956.0,,Network Cabinet #2
+NOI25A-6F-IDC1-L7-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.0,,,,,,,,,,,,1054.0,1136.0,,""
+ETSR1H4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,10.1,7.2,6.0,,,,,,,,,,2547.0,2616.0,70.9,H-4
+WTSRNR1PDUA,WTSR,Raritan,PX-5273,1.5.8-11272,Good,1.26,4.34,3.55,,,,,,,,,,945.0,988.0,,Network Cabinet #1
+ATSRE6PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,5.4,5.6,5.4,,,,,,,,,,1848.0,1956.0,64.8,E6
+my_device,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.54,0.54,0.0,,,,,,,,,,102.0,112.0,,""
+lehi-cdumsr1aa01b,,Raritan,PX2-5701,3.1.0.5-42165,Good,1.8,1.8,0.0,,,,,,,,,,321.0,370.0,,AA01
+ETSR1G3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,14.2,19.8,11.3,,,,,,,,,,4980.0,5044.0,77.7,G-3
+WTSRNR1PDUB,WTSR,Raritan,PX-5273,1.5.8-11272,Good,1.16,4.13,3.46,,,,,,,,,,904.0,945.0,,Network Cabinet #1
+ATSRB3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.8,4.9,4.8,,,,,,,,,,1500.0,1746.0,,B3
+ETSR1H3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.3,2.4,1.5,,,,,,,,,,368.0,565.0,70.3,H-3
+ETSR1H5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.7,3.1,3.1,,,,,,,,,,782.0,1052.0,72.5,H-5
+ETSR1G2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.2,2.8,2.8,,,,,,,,,,675.0,918.0,75.4,G-2
+WTSRNR2PDUA,,Raritan,PX2-5339R,3.1.0.5-42165,Good,1.3,4.2,3.4,,,,,,,,,,904.0,973.0,,Network Cabinet #2
+ATSRE5PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,2.4,3.0,1.0,,,,,,,,,,621.0,691.0,61.3,E5
+NOI25A-6F-IDC1-L5-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.9,,,,,,,,,,,,1280.0,1343.0,,""
+ETSR1G5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.9,8.9,8.1,,,,,,,,,,2929.0,3010.0,78.3,G-5
+lehi-cdumsr1aa04a,,Raritan,PX2-5701,3.1.0.5-42165,Good,0.5,0.5,0.0,,,,,,,,,,55.0,93.0,,AA04
+ETSR2-Z2B05-PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.5,4.2,5.1,,,,,,,,,,1342.0,1488.0,,Z2B05
+ottmdc-network-pdu4,Unknown,Raritan,DPXR20A-20L6,1.5.5-10603,Good,1.19,,,,,,,,,,,,159.0,249.0,,Rack 5
+ATSRD6PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.6,3.6,2.9,,,,,,,,,,1093.0,1211.0,,D6
+ottmdc-network-pdu3,Unknown,Raritan,DPXR20A-20L6,1.5.5-10603,Good,2.19,,,,,,,,,,,,284.0,464.0,,Rack 3
+ETSR1H2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.2,4.5,0.5,,,,,,,,,,860.0,951.0,72.3,H-2
+WTSRB118PDUA,WTSR,Raritan,PX-5522,1.5.8-11272,Good,7.78,6.68,10.02,,,,,,,,,,2747.0,2872.0,,B-1-18
+my_device,AT13-ESR,Raritan,DPXS20-20L,1.5.8-11272,Good,0.27,,,,,,,,,,,,13.0,32.0,,Bakers Rack1
+ETSR2-Z2B05-PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.0,4.3,4.7,,,,,,,,,,1246.0,1415.0,,Z2B05
+ETSR1G4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,15.8,18.2,10.4,,,,,,,,,,4969.0,5029.0,79.0,G-4
+ATSRE7PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.6,2.7,4.1,,,,,,,,,,1183.0,1344.0,61.2,E7
+WTSRB117PDUA,WTSR,Raritan,PX-5522,1.5.8-11272,Good,5.06,6.35,7.98,,,,,,,,,,2200.0,2300.0,,B-1-17
+ETSR1G5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.8,9.8,9.0,,,,,,,,,,3275.0,3329.0,79.0,G-5
+noida132-6fitlab-r4-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Good,5.8,,,,,,,,,,,,1083.0,1341.0,,Rack 4
+ATSRB1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.2,0.2,0.0,,,,,,,,,,19.0,36.0,,B1
+ETSR1H1PDUB,,Raritan,PX2-5339R,3.1.0.5-42165,Good,0.5,0.0,0.5,,,,,,,,,,94.0,101.0,,H-1
+ATSRC2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,2.4,2.0,,,,,,,,,,533.0,815.0,,C2
+ATSRB5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.3,1.5,1.3,,,,,,,,,,326.0,493.0,,B5
+ATSRD1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.0,2.3,1.6,,,,,,,,,,406.0,549.0,,D1
+ETSR1G1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.7,13.7,9.3,,,,,,,,,,3653.0,3693.0,76.1,G-1
+seamsrpdu21-3-2,seattle msr cab 23,Raritan,DPXR20-20L,1.4.1-10051,Good,2.14,,,,,,,,,,,,238.0,260.0,,21-3
+atsra3pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.6,2.2,0.7,,,,,,,,,,540.0,611.0,,A3
+min-idc307-pdu02,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,3.2,,,,,,,,,,,,627.0,677.0,,Rack #1
+ottmdc-network-pdu5,Unknown,Raritan,DPXR20A-20L6,1.5.5-10603,Good,1.84,,,,,,,,,,,,297.0,388.0,,Rack 9
+pdu01-ntn-idc354,,Raritan,PX2-2497,2.5.30.5-41228,Good,6.5,,,,,,,,,,,,1266.0,1326.0,80.4,Rack #1
+ATSRC1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.6,4.8,5.0,,,,,,,,,,1454.0,1733.0,,C1
+sg1pdu-1022-2,sg1pdu-1022-2,Raritan,PX-5469,1.5.8-11272,Good,4.03,,,,,,,,,,,,904.0,988.0,,1022
+7th East px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.0,,,,,,,,,,,,1313.0,1374.0,75.6,7th floor IDC – East
+ATSRC6PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,C6
+ATSRD7PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.0,1.0,0.8,,,,,,,,,,65.0,338.0,,D7
+atsra4pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,1.6,1.8,,,,,,,,,,462.0,524.0,,A4
+ATSRC4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,1.4,1.1,,,,,,,,,,225.0,434.0,,C4
+ETSR2-Z1H07-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.3,1.8,3.5,,,,,,,,,,930.0,1101.0,,Z1H07
+sg1pdu-1023-2,sg1pdu-1023-2,Raritan,PX-5469,1.5.8-11272,Good,7.98,,,,,,,,,,,,1761.0,1925.0,,1023
+ATSRF1PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.4,3.0,2.0,,,,,,,,,,801.0,867.0,66.2,F1
+5th East px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.1,,,,,,,,,,,,1328.0,1412.0,78.1,5th floor IDC – East
+ATSRC3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.8,0.8,0.0,,,,,,,,,,142.0,171.0,,C3
+seamsrpdu20-5-1,seattle msr row 20 cab 5,Raritan,DPXS20-20L,1.4.1-10051,Good,4.34,,,,,,,,,,,,388.0,507.0,89.6,20-5
+min-idc307-pdu04,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,2.5,,,,,,,,,,,,484.0,523.0,,Rack #2
+seamsrpdu21-3-1,seattle msr cab 23,Raritan,DPXR20-20L,1.4.1-10051,Good,3.46,,,,,,,,,,,,406.0,406.0,,21-3
+ETSR1H1PDUA,,Raritan,PX2-5339R,3.1.0.5-42165,Good,0.5,0.5,0.0,,,,,,,,,,89.0,96.0,,H-1
+sg1pdu-1022-1,sg1pdu-1022-1,Raritan,PX-5469,1.5.8-11272,Good,43.55,,,,,,,,,,,,3921.0,865.0,,1022
+Noida132-3FITLAB-R1-LeftPDU,,Raritan,PX2-2493,3.1.0.5-42165,Good,1.8,,,,,,,,,,,,276.0,422.0,,Rack 1
+etsr2-z1h04-pdua,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.19,4.81,5.89,,,,,,,,,,1761.0,1925.0,,Z1H04
+150almaden-14-pdua,,Raritan,PX2-5198R,3.1.0.5-42165,Good,3.5,,,,,,,,,,,,703.0,728.0,88.5,Network Rack
+seamsrpdu16-4-2,seattle msr cab 16,Raritan,DPXR20-20L,1.4.1-10051,Critical,,,,,,,,,,,,,,,,16-4
+atsra2pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.0,1.3,,,,,,,,,,587.0,630.0,,A2
+ATSRB2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.5,2.8,2.6,,,,,,,,,,795.0,951.0,,B2
+ETSR1J4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.9,3.2,2.4,,,,,,,,,,800.0,1006.0,72.1,J-4
+nyus-idc04039-pdu02,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,4.9,,,,,,,,,,,,995.0,1017.0,,Rack #3
+atsra3pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.4,0.7,1.1,,,,,,,,,,319.0,369.0,,A3
+6th East px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.4,,,,,,,,,,,,1444.0,1488.0,75.7,6th floor IDC – East
+6th West px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.1,,,,,,,,,,,,1363.0,1423.0,77.5,6th floor IDC – West
+seamsrpdu21-5-2,seattle msr cab 21-5,Raritan,DPXS20-20L,1.4.1-10051,Good,9.53,,,,,,,,,,,,1080.0,1129.0,,21-5
+seamsrpdu16-4-1,seattle msr cab 16,Raritan,DPXR20-20L,1.4.1-10051,Good,10.54,,,,,,,,,,,,1181.0,1234.0,,16-4
+ham-mdc-pdu2,,Raritan,PX2-2488,3.1.0.5-42165,Good,3.1,,,,,,,,,,,,694.0,722.0,,4th fl Rack5
+sg1pdu-1024-2,sg1pdu-1024-2,Raritan,PX-5469,1.5.8-11272,Good,7.78,,,,,,,,,,,,1685.0,1842.0,,1024
+1st floor Network Room px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Critical,,,,,,,,,,,,,,,,1st floor Network Room
+sg1pdu-1021-1,sg1pdu-1021-1,Raritan,PX-5469,1.5.8-11272,Good,43.55,,,,,,,,,,,,4099.0,945.0,,1021
+du1pdu-e1-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,1.029,,,,,,,,,,,,198.0,237.0,,E-01
+du1pdu-e3-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,0.924,,,,,,,,,,,,191.0,240.0,,E-03
+sg1pdu-1025-1,sg1pdu-1025-1,Raritan,PX-5469,1.5.8-11272,Good,4.03,,,,,,,,,,,,757.0,945.0,,1025
+du1pdu-e2-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,2.733,,,,,,,,,,,,576.0,632.0,,E-02
+du1pdu-e2-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,2.42,,,,,,,,,,,,493.0,553.0,64.2,E-02
+etsr2-z1h04-pdub,Unknown,Raritan,PX-5522,1.4.0-9851,Good,5.19,5.06,6.04,,,,,,,,,,1761.0,1925.0,,Z1H04
+2nd IDC East,,Raritan,PX2-5844R,3.1.0.5-42165,Good,7.3,,,,,,,,,,,,1621.0,1688.0,77.2,2nd floor IDC – East
+sg1pdu-1021-2,sg1pdu-1021-2,Raritan,PX-5469,1.5.8-11272,Good,4.69,,,,,,,,,,,,988.0,1129.0,,1021
+du1pdu-e1-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,1.123,,,,,,,,,,,,223.0,260.0,,E-01
+150almaden-14-pdub,,Raritan,PX2-5198R,3.1.0.5-42165,Good,3.3,,,,,,,,,,,,665.0,692.0,91.4,Network Rack
+ATSRF1PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.4,2.4,1.3,,,,,,,,,,669.0,704.0,65.3,F1
+150almaden-15-pdua,,Raritan,PX2-5198R,3.1.0.5-42165,Good,4.6,,,,,,,,,,,,844.0,965.0,76.5,Network Rack
+seamsrpdu21-5-1,seattle msr cab 21-5,Raritan,DPXS20-20L,1.4.1-10051,Good,11.97,,,,,,,,,,,,1349.0,1475.0,,21-5
+3rd East px-hubroom1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.9,,,,,,,,,,,,1294.0,1355.0,76.8,3rd floor IDC – East
+mux1-pdu,,Raritan,PX2-5844R,3.1.0.5-42165,Good,2.6,,,,,,,,,,,,537.0,615.0,73.8,Rack 1
+sg1pdu-1025-2,sg1pdu-1025-2,Raritan,PX-5469,1.5.8-11272,Good,3.93,,,,,,,,,,,,757.0,945.0,,1025
+ETSR2-Z1H07-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.1,1.6,3.2,,,,,,,,,,829.0,997.0,,Z1H07
+etsr1f3pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.2,1.4,0.3,,,,,,,,,,178.0,317.0,73.9,F-3
+du1pdu-e7-1,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,5.2,,,,,,,,,,,,1060.0,1197.0,64.0,E-07
+du1pdu-e3-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,0.855,,,,,,,,,,,,176.0,197.0,,E-03
+etsr2-z1h05-pdua,Unknown,Raritan,PX-5522,1.4.0-9851,Good,0.25,0.25,0.0,,,,,,,,,,27.0,52.0,,Z1H05
+etsr2-z1h08-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.3,1.7,1.6,,,,,,,,,,252.0,554.0,,Z1H08
+etsr2-z1g06-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.2,3.9,1.6,,,,,,,,,,682.0,967.0,,Z1G06
+atsra5pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.9,2.8,4.0,,,,,,,,,,947.0,1143.0,,A5
+ATSRE7PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.6,3.0,4.3,,,,,,,,,,1256.0,1405.0,59.5,E7
+etsr2-z1h05-pdub,Unknown,Raritan,PX-5522,1.4.0-9851,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1H05
+ATSRC1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.6,4.8,4.8,,,,,,,,,,1421.0,1700.0,,C1
+150almaden-15-pdub,,Raritan,PX2-5198R,3.1.0.5-42165,Good,4.7,,,,,,,,,,,,876.0,968.0,79.7,Network Rack
+du1pdu-d9-1,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,7.3,,,,,,,,,,,,1529.0,1658.0,67.3,D-09
+ATSRF2PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.2,3.0,2.2,,,,,,,,,,798.0,876.0,,F2
+ETSR1J3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.2,4.5,8.3,,,,,,,,,,2063.0,2115.0,72.5,J-3
+ATSRE3PDUA,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,1.3,1.5,0.7,,,,,,,,,,264.0,405.0,71.2,E3
+du1pdu-d10-1,,Raritan,PX3-5493V-A4D1,3.1.0.5-42165,Good,12.045,,,,,,,,,,,,2561.0,2750.0,,D-10
+du1pdu-e4-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.115,,,,,,,,,,,,868.0,944.0,,E-04
+du1pdu-e4-2 ,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.059,,,,,,,,,,,,851.0,935.0,,E-04
+du1pdu-d5-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.848,,,,,,,,,,,,930.0,1117.0,,D-05
+du1pdu-d7-2,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,10.4,,,,,,,,,,,,2181.0,2375.0,,D-07
+du1pdu-e5-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,9.145,,,,,,,,,,,,1984.0,2082.0,,E-05
+noida132-6fitlab-r3-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Good,1.5,,,,,,,,,,,,188.0,342.0,,Rack 3
+ATSRF2PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,1.2,2.1,2.1,,,,,,,,,,584.0,627.0,63.5,F2
+du1pdu-d11-1,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,7.1,,,,,,,,,,,,1418.0,1636.0,,D-11
+etsr2-z1h06-pdua,Unknown,Raritan,PX-5522,1.4.0-9851,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1H06
+ATSRG5PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.8,2.9,1.5,,,,,,,,,,785.0,837.0,73.8,G5
+du1pdu-d4-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.835,,,,,,,,,,,,970.0,1118.0,,D-04
+du1pdu-d2-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,10.994,,,,,,,,,,,,2366.0,2508.0,,D-02
+du1pdu-e9-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,12.862,,,,,,,,,,,,2769.0,2900.0,,E-09
+du1pdu-e9-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,13.251,,,,,,,,,,,,2883.0,2998.0,,E-09
+DFWSAV-3203PDUB,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.81,7.78,4.34,,,,,,,,,,1761.0,1925.0,,3203
+du1pdu-e7-2,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,6.6,,,,,,,,,,,,1321.0,1510.0,,E-07
+ATSRF3PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.9,3.3,1.6,,,,,,,,,,851.0,906.0,70.3,F3
+du1pdu-d10-2,,Raritan,PX3-5493V-A4D1,3.1.0.5-42165,Good,12.796,,,,,,,,,,,,2730.0,2895.0,,D-10
+mux2-pdu,,Raritan,PX2-5844R,3.1.0.5-42165,Critical,,,,,,,,,,,,,,,,Rack 1
+du1pdu-e8-2,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,6.3,,,,,,,,,,,,1155.0,1445.0,,E-08
+du1pdu-e5-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,5.709,,,,,,,,,,,,1106.0,1305.0,,E-05
+etsr2-z1h06-pdub,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1H06
+du1pdu-e8-1,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,7.0,,,,,,,,,,,,1412.0,1609.0,,E-08
+NOI25A-6F-IDC1-L6-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.2,,,,,,,,,,,,1091.0,1173.0,79.3,""
+du1pdu-d1-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,0.724,,,,,,,,,,,,157.0,167.0,61.0,D-01
+du1pdu-d1-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,0.572,,,,,,,,,,,,121.0,133.0,,D-01
+du1pdu-d9-2,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1351.0,1484.0,,D-09
+seamsrpducab15-1-2,Unknown,Raritan,DPXS20-20L,1.5.8-11272,Good,5.06,,,,,,,,,,,,580.0,580.0,,15-1
+du1pdu-d6-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.644,,,,,,,,,,,,767.0,1053.0,,D-06
+etsr2-z1h09-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.3,3.8,3.1,,,,,,,,,,949.0,1079.0,,Z1H09
+ETSR1I3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.7,2.2,2.2,,,,,,,,,,461.0,553.0,72.5,I-3
+du1pdu-d3-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,2.557,,,,,,,,,,,,480.0,585.0,,D-03
+etsr2-z1h08-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.3,3.0,2.3,,,,,,,,,,755.0,1017.0,,Z1H08
+du1pdu-d7-1,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,11.2,,,,,,,,,,,,2325.0,2567.0,,D-07
+du1pdu-d2-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,6.227,,,,,,,,,,,,1333.0,1427.0,,D-02
+du1pdu-d11-2,,Raritan,PX2-5844R-A4D1,3.1.0.5-42165,Good,6.4,,,,,,,,,,,,1263.0,1457.0,,D-11
+du1pdu-d5-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.115,,,,,,,,,,,,818.0,946.0,64.8,D-05
+ATSRF3PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,5.6,6.3,2.7,,,,,,,,,,1552.0,1664.0,65.3,F3
+ATSRF4PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.9,3.0,2.5,,,,,,,,,,787.0,880.0,68.4,F4
+etsr2-z1h09-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.8,3.1,3.4,,,,,,,,,,769.0,967.0,,Z1H09
+ATSRF6PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.3,4.1,3.7,,,,,,,,,,1255.0,1322.0,62.8,F6
+sg1pdu-1023-1,sg1pdu-1023-1,Raritan,PX-5469,1.5.8-11272,Good,6.85,,,,,,,,,,,,1475.0,1612.0,,1023
+ATSRC0PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,C0
+ETSR1I5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.3,4.4,5.7,,,,,,,,,,1595.0,1654.0,74.3,I-5
+WTSRB118PDUB,WTSR,Raritan,PX-5522,1.5.8-11272,Good,5.46,6.35,8.18,,,,,,,,,,2300.0,2404.0,,B-1-18
+etsr2-z1h10-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.7,2.4,2.8,,,,,,,,,,782.0,1042.0,,Z1H10
+du1pdu-d3-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,3.814,,,,,,,,,,,,802.0,874.0,,D-03
+etsr1d5pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.6,1.8,1.6,,,,,,,,,,552.0,587.0,67.1,D-5
+ATSRF4PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.4,3.3,2.7,,,,,,,,,,965.0,1004.0,66.6,F4
+sg1pdu-1026-2,sg1pdu-1026-2,Raritan,PX-5469,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,1026
+du1pdu-d4-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.32,,,,,,,,,,,,891.0,1003.0,,D-04
+sg1pdu-1026-1,sg1pdu-1026-1,Raritan,PX-5469,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,1026
+etsr2-z1g06-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.7,3.5,1.6,,,,,,,,,,708.0,887.0,,Z1G06
+du1pdu-d6-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,4.584,,,,,,,,,,,,910.0,1059.0,,D-06
+ETSR1J2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.1,0.1,0.0,,,,,,,,,,15.0,30.0,74.8,J-2
+WTSRB117PDUB,WTSR,Raritan,PX-5522,1.5.8-11272,Good,5.32,6.85,8.39,,,,,,,,,,2300.0,2404.0,,B-1-17
+NOI25A-6F-IDC2-L5-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.2,,,,,,,,,,,,1339.0,1396.0,,""
+etsr2-z1h10-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.1,1.9,2.3,,,,,,,,,,661.0,839.0,,Z1H10
+ATSRF5PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.4,2.0,2.0,,,,,,,,,,606.0,636.0,64.9,F5
+ATSRB6PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.3,1.1,,,,,,,,,,463.0,627.0,,B6
+ATSRF5PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,3.4,3.9,2.4,,,,,,,,,,1066.0,1137.0,63.1,F5
+etsr2-z1g05-pdua,Unknown,Raritan,PX-5522,1.4.0-9851,Good,3.83,5.32,4.69,,,,,,,,,,1542.0,1612.0,,Z1G05
+NOI25A-3F-IDC2-L4-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.9,,,,,,,,,,,,1424.0,1541.0,,""
+seamsrpdu15-4-1,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,1.29,,,,,,,,,,,,122.0,152.0,,15-4
+ETSR1C2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.6,2.4,3.9,,,,,,,,,,1088.0,1143.0,73.0,C-2
+NOI25A-6F-IDC2-L6-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.4,,,,,,,,,,,,1151.0,1224.0,80.6,""
+NOI25A-6F-IDC1-L6-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,4.9,,,,,,,,,,,,1039.0,1118.0,,""
+dfwsav-3108pdua,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,2.69,3.05,3.55,,,,,,,,,,945.0,1080.0,,3108
+dfwsav-3109pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,4.46,4.24,6.52,,,,,,,,,,1542.0,1761.0,,3109
+ETSR1H4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.7,5.2,2.8,,,,,,,,,,1436.0,1576.0,70.5,H-4
+etsr2-z1g05-pdub,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1G05
+dfwsav-3109pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,4.81,4.13,6.52,,,,,,,,,,1542.0,1761.0,,3109
+ETSR1H2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.8,3.1,0.5,,,,,,,,,,560.0,665.0,70.7,H-2
+ETSR2-Z2A04-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.32,5.19,5.32,,,,,,,,,,1761.0,1842.0,,Z2A04
+3rd West IDC,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1451.0,1503.0,74.7,3rd floor IDC – West
+DFWSAV-3106PDUB,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,1.32,0.0,1.32,,,,,,,,,,249.0,272.0,,3106
+ATSRF7PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.1,2.3,3.2,,,,,,,,,,828.0,878.0,,F7
+dfwsav-3009pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.74,4.81,8.18,,,,,,,,,,1925.0,2104.0,,3009
+dfwsav-3107pdub,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.34,5.06,4.93,,,,,,,,,,1612.0,1685.0,,3107
+etsr1e2pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,1.7,1.4,,,,,,,,,,502.0,579.0,70.3,E-2
+ETSR1C4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.6,2.3,1.4,,,,,,,,,,471.0,600.0,73.9,C-4
+dfwsav-3104pdua,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,7.98,8.18,13.58,,,,,,,,,,3139.0,3282.0,,3104
+DFWSAV-3106PDUA,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,1.35,0.0,1.35,,,,,,,,,,260.0,284.0,,3106
+ETSR2-Z2D03-PDUA,ETSR-2,Raritan,PX-5522,1.5.8-11272,Good,2.55,2.9,2.14,,,,,,,,,,662.0,904.0,,Z2D03
+ETSR1L2PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,9.29,10.28,10.02,,,,,,,,,,3282.0,3431.0,69.8,L-2
+ETSR2-Z2A01-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.89,8.18,6.85,,,,,,,,,,2300.0,2404.0,,Z2A01
+etsr2-z1g07-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.2,3.4,2.1,,,,,,,,,,812.0,1031.0,,Z1G07
+ETSR1H5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,12.8,14.5,13.1,,,,,,,,,,4627.0,4691.0,72.9,H-5
+5th West px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.8,,,,,,,,,,,,1258.0,1342.0,73.8,5th floor IDC – West
+ETSR1K3PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,2.75,3.55,1.75,,,,,,,,,,791.0,904.0,78.8,K-3
+ETSR2-Z2B02-PDUB,Unknown,Raritan,PX-5273,1.5.8-11272,Good,5.06,3.73,4.93,,,,,,,,,,1542.0,1612.0,,Z2B02
+ETSR1K1PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,4.69,3.83,4.46,,,,,,,,,,1349.0,1475.0,75.2,K-1
+ETSR1K5PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,0.48,0.57,0.16,,,,,,,,,,68.0,128.0,75.2,K-5
+NOI25A-6F-IDC2-L6-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.5,,,,,,,,,,,,1204.0,1274.0,,""
+ETSR1K3PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,3.55,4.34,1.32,,,,,,,,,,865.0,988.0,76.1,K-3
+etsr2-z1g07-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.4,4.5,2.0,,,,,,,,,,898.0,1113.0,,Z1G07
+4th East px-hubroom1-rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1426.0,1506.0,72.9,4th floor IDC – East
+seamsrpducab16-1-1,seattle msr ca 16-1,Raritan,PX-5119,1.5.5-10603,Good,3.05,5.19,2.97,,,,,,,,,,1129.0,1234.0,89.6,16-1
+2nd IDC West,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.0,,,,,,,,,,,,1073.0,1163.0,77.5,2nd floor IDC – West
+ETSR1K2PDUA,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,5.89,6.85,8.61,,,,,,,,,,2300.0,2514.0,75.2,K-2
+ETSR2-Z2E12-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,1.54,1.84,1.7,,,,,,,,,,507.0,606.0,,Z2E12
+ATSRF7PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,2.5,2.1,3.4,,,,,,,,,,867.0,935.0,,F7
+ETSR2-Z2A01-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,8.83,8.83,9.06,,,,,,,,,,2300.0,3139.0,,Z2A01
+ETSR2-Z2A02-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,12.27,16.22,11.67,,,,,,,,,,4480.0,4683.0,,Z2A02
+etsr2-z1g08-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.2,3.1,4.3,,,,,,,,,,817.0,1090.0,,Z1G08
+NOI25A-6F-IDC2-L5-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.8,,,,,,,,,,,,1275.0,1334.0,,""
+ETSR2-Z2A05-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,7.21,7.03,5.19,,,,,,,,,,2200.0,2300.0,,Z2A05
+NOI25A-6F-IDC2-L7-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,3.8,,,,,,,,,,,,783.0,848.0,,""
+etsr2-z1g08-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.3,5.0,5.3,,,,,,,,,,1342.0,1588.0,,Z1G08
+ETSR2-Z2A03-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,10.81,17.5,10.02,,,,,,,,,,3921.0,4099.0,,Z2A03
+NOI25A-6F-IDC2-L7-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.3,,,,,,,,,,,,1330.0,1447.0,,""
+etsr2-z1g11-pdub,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.5,2.5,1.7,,,,,,,,,,517.0,784.0,,Z1G11
+ETSR2-Z2A04-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.32,5.06,5.32,,,,,,,,,,1761.0,1842.0,,Z2A04
+seamsrpdu17-1-1,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Critical,,,,,,,,,,,,,,,,17-1
+ETSR2-Z2A05-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.52,6.52,4.93,,,,,,,,,,2013.0,2104.0,,Z2A05
+ham-mdc-pdu3,,Raritan,PX2-2488,3.1.0.5-42165,Good,5.7,,,,,,,,,,,,1207.0,1314.0,,4th fl Rack4
+tycidcpdu03,Unknown,Raritan,DPXR20-20L,1.5.8-11272,Good,8.61,,,,,,,,,,,,904.0,988.0,,Tysons Corner
+seamsrpducab17-1-2,seattle msr cab 17-1,Raritan,DPXS20-20L,1.4.1-10051,Critical,,,,,,,,,,,,,,,,17-1
+ATSRG1PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.1,3.2,2.5,,,,,,,,,,1021.0,1043.0,72.1,G1
+NOI25A-3F-IDC1-L4-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.9,,,,,,,,,,,,1273.0,1336.0,,""
+etsr2-z1g11-pdua,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.9,3.1,1.0,,,,,,,,,,532.0,783.0,,Z1G11
+NOI25A-1F-IDC-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,4.7,,,,,,,,,,,,1006.0,1087.0,,""
+ETSR2-Z2A06-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.46,5.46,5.06,,,,,,,,,,1761.0,1842.0,,Z2A06
+ATSRF6PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,1.1,2.4,2.8,,,,,,,,,,616.0,706.0,63.3,F6
+Mil-pdu-2,,Raritan,PX2-2190CR,3.1.0.5-42165,Good,2.5,,,,,,,,,,,,500.0,575.0,,Rack 1
+ETSR2-Z2B02-PDUA,Unknown,Raritan,PX-5273,1.5.8-11272,Good,5.06,3.73,4.93,,,,,,,,,,1542.0,1612.0,,Z2B02
+NOI25A-1B-MUX2,,Raritan,PX3TS-1469R,3.2.10.5-42978,Good,0.078,4.106,,,,,,,,,,,839.0,970.0,77.5,""
+ham-mdc-pdu4,,Raritan,PX2-2488,3.1.0.5-42165,Good,4.1,,,,,,,,,,,,883.0,941.0,,4th fl Rack4
+ATSRG1PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.7,3.8,2.2,,,,,,,,,,1091.0,1137.0,71.1,G1
+ETSR2-Z2D05-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,7.03,7.78,7.98,,,,,,,,,,2514.0,2747.0,,Z2D05
+bar-pdu-2,Unknown,Raritan,DPXR8A-16,1.4.1-10051,Good,1.88,,,,,,,,,,,,311.0,425.0,,Barcelona
+NOI25A-3F-IDC1-L3-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.7,,,,,,,,,,,,1231.0,1302.0,78.3,""
+NOI25A-3F-IDC2-L2-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.9,,,,,,,,,,,,1268.0,1346.0,,""
+NOI25A-3F-IDC1-L4-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.3,,,,,,,,,,,,1341.0,1428.0,,""
+ATSRG7PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.4,2.2,3.6,,,,,,,,,,894.0,947.0,68.7,G7
+NOI25A-3F-IDC2-L2-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.7,,,,,,,,,,,,1209.0,1281.0,,""
+ETSR2-Z2A08-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.19,8.18,7.03,,,,,,,,,,2404.0,2514.0,,Z2A08
+NOI25A-3F-IDC2-L3-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.4,,,,,,,,,,,,1388.0,1445.0,,""
+NOI25A-3F-IDC1-L2-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1386.0,1499.0,,""
+ETSR2-Z2E01-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,9.77,9.53,9.77,,,,,,,,,,3431.0,3431.0,,Z2E01
+ETSR1C1PDUA,,Raritan,PX2-5339R,3.1.0.5-42165,Good,0.8,0.8,0.0,,,,,,,,,,145.0,161.0,,C-1
+ETSR1K2PDUB,ETSR-1,Raritan,PX-5522,1.5.8-11272,Good,2.37,9.77,9.53,,,,,,,,,,2200.0,2300.0,77.9,K-2
+DFWSAV-3101PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.93,5.06,2.49,,,,,,,,,,1290.0,1475.0,,3101
+ETSR2-Z1A04-PDUA,ETSR-2,Raritan,PX-5522,1.5.8-11272,Good,2.49,1.26,2.55,,,,,,,,,,634.0,724.0,,Z1A04
+ETSR1A4PDUA,,Raritan,PX2-5522-E2N1,3.0.4.5-41800,Good,10.0,9.9,9.9,,,,,,,,,,3437.0,3493.0,74.1,A-4
+ETSR2Z1D03PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,13.58,12.91,15.81,,,,,,,,,,4896.0,4896.0,,Z1D03
+sf410pduc-Fl2R3,Unknown,Raritan,DPXR20-20L,1.5.8-11272,Good,4.93,,,,,,,,,,,,507.0,580.0,,Floor 2 rack 3
+NOI25A-3F-IDC1-L3-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.9,,,,,,,,,,,,1268.0,1330.0,,""
+ETSR1B2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.8,6.8,5.1,,,,,,,,,,2031.0,2175.0,73.0,B-2
+ATSRD2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.5,2.8,3.2,,,,,,,,,,758.0,1014.0,,D2
+ATSRG4PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.5,1.8,1.1,,,,,,,,,,408.0,514.0,72.1,G4
+tycidcpdu01,Unknown,Raritan,DPXR20-20L,1.5.8-11272,Good,6.19,,,,,,,,,,,,662.0,724.0,,Tysons Corner
+ETSR1B1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,8.9,8.8,7.3,,,,,,,,,,2844.0,2916.0,76.3,B-1
+ham-mdc-pdu8,,Raritan,PX2-2488,3.1.0.5-42165,Good,3.4,,,,,,,,,,,,690.0,776.0,,4th fl Rack2
+WTSRB217PDUD,WTSR B-2-17,Raritan,DPXR20-20L,1.5.8-11272,Good,2.14,,,,,,,,,,,,228.0,260.0,,B-2-17
+ETSR2-Z1C01-PDUA,ETSR-2,Raritan,PX-5522,1.5.8-11272,Good,13.24,13.24,13.24,,,,,,,,,,4683.0,4683.0,,Z1C01
+ETSR2-Z2E05-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.19,5.19,0.0,,,,,,,,,,1033.0,1080.0,,Z2E05
+ETSR1C1PDUB,,Raritan,PX2-5339R,3.1.0.5-42165,Good,0.8,0.8,0.0,,,,,,,,,,155.0,171.0,,C-1
+tyo19b-pdu-10,,Raritan,PX3-5138JR,3.1.0.5-42165,Good,0.195,,,,,,,,,,,,12.0,19.0,,NetworkRack2
+DFWSAV-3101PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.93,5.32,2.62,,,,,,,,,,1290.0,1475.0,,3101
+ETSR1A4PDUB,,Raritan,PX2-5522-E2N1,3.0.4.5-41800,Good,5.5,5.4,5.7,,,,,,,,,,1797.0,1927.0,72.0,A-4
+DFWSAV-3102PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.13,4.13,0.0,,,,,,,,,,757.0,865.0,,3102
+ETSR2Z1C01PDUB,ETSR-2,Raritan,PX-5522,1.5.8-11272,Critical,,,,,,,,,,,,,,,,Z1C01
+ATSRG4PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.6,2.2,2.0,,,,,,,,,,560.0,683.0,73.6,G4
+nyus-idc0511-pdu01,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,5.0,,,,,,,,,,,,968.0,1034.0,71.6,Rack #2
+ETSR2-Z1B05-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.04,6.68,6.19,,,,,,,,,,2104.0,2300.0,,Z1B05
+Tyo19b-pdu-2,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,4.24,,,,,,,,,,,,743.0,837.0,,ServerRack1
+ATSRG5PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.0,2.1,1.6,,,,,,,,,,644.0,681.0,71.8,G5
+ETSR2-Z1A06-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.19,5.06,6.04,,,,,,,,,,1761.0,1925.0,,Z1A06
+ETSR1J4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,9.3,7.7,6.1,,,,,,,,,,2557.0,2655.0,71.1,J-4
+ETSR2Z1D03PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,14.29,13.24,16.22,,,,,,,,,,5119.0,5351.0,,Z1D03
+DFWSAV-3205PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,1.46,1.98,0.8,,,,,,,,,,406.0,464.0,,3205
+ETSR1B3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.0,2.7,2.6,,,,,,,,,,794.0,1057.0,72.1,B-3
+noida132-6fitlab-r1-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Good,3.4,,,,,,,,,,,,670.0,797.0,,Rack 1
+noida132-6fitlab-r2-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Warning,4.5,,,,,,,,,,,,880.0,1040.0,,Rack 2
+ATSRC4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.1,1.0,0.8,,,,,,,,,,177.0,340.0,,C4
+dfwsav-3201pdua,Unknown,Raritan,PX-5273,1.5.8-11272,Good,4.81,5.19,3.55,,,,,,,,,,1475.0,1612.0,,3201
+DFWSAV-3001PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.32,5.06,1.88,,,,,,,,,,1290.0,1349.0,,3001
+dfwsav-3204pdub,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,3.21,5.32,3.29,,,,,,,,,,1234.0,1290.0,,3204
+dfwsav-3002pdua,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.03,4.03,0.0,,,,,,,,,,724.0,827.0,,3002
+ETSR2-Z1A06-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.32,5.19,6.19,,,,,,,,,,1842.0,1925.0,,Z1A06
+ATSRG6PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.5,2.7,1.7,,,,,,,,,,728.0,804.0,72.5,G6
+atsra8pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.8,4.1,4.5,,,,,,,,,,1440.0,1614.0,,A8
+DFWSAV-3203PDUA,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.34,5.46,6.35,,,,,,,,,,1761.0,1925.0,,3203
+etsr1e5pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.5,1.4,1.5,,,,,,,,,,487.0,520.0,72.3,E-5
+dfwsav-3002pdub,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.57,4.57,0.0,,,,,,,,,,865.0,945.0,,3002
+dfwsav-3202pdua,Unknown,Raritan,PX-5273,1.5.8-11272,Good,4.93,5.19,3.55,,,,,,,,,,1542.0,1612.0,,3202
+dfwsav-3005pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,6.04,5.89,6.52,,,,,,,,,,2013.0,2200.0,,3005
+dfwsav-3005pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,18.88,5.46,5.19,,,,,,,,,,988.0,1842.0,,3005
+dfwsav-3201pdub,Unknown,Raritan,PX-5273,1.5.4-10916,Critical,,,,,,,,,,,,,,,,3201
+dfwsav-3004pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.32,5.32,6.19,,,,,,,,,,1925.0,2013.0,,3004
+DFWSAV-3204PDUA,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,3.21,3.29,5.32,,,,,,,,,,1290.0,1349.0,,3204
+ETSR2-Z1A04-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,2.31,1.16,2.31,,,,,,,,,,606.0,662.0,,Z1A04
+dfwsav-3008pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,4.46,4.69,3.55,,,,,,,,,,1349.0,1542.0,,3008
+nyus-idc0511-pdu02,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,4.6,,,,,,,,,,,,886.0,960.0,69.4,Rack #2
+dfwsav-3008pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,3.93,3.93,3.21,,,,,,,,,,1181.0,1290.0,,3008
+WTSRTELCO2PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.3,3.3,2.9,,,,,,,,,,1059.0,1122.0,,Telco-2
+DFWSAV-3211PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.57,4.03,3.93,,,,,,,,,,1234.0,1475.0,,3211
+WTSRTELCO2PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.3,3.2,2.8,,,,,,,,,,1040.0,1105.0,,Telco-2
+tyo19b-pdu-5,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,2.104,,,,,,,,,,,,405.0,415.0,,ServerRack3
+etsr1f2pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.0,3.4,4.6,,,,,,,,,,1072.0,1267.0,74.8,F-2
+etsr1d1pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,0.7,2.3,,,,,,,,,,492.0,576.0,69.8,D-1
+ATSRG7PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.2,2.3,3.4,,,,,,,,,,862.0,914.0,75.2,G7
+DFWSAV-3209PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.04,6.19,5.74,,,,,,,,,,2104.0,2200.0,,3209
+nyus-idc04039-pdu01,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,2.8,,,,,,,,,,,,564.0,587.0,71.8,Rack #2
+ATSRD4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.9,3.2,2.5,,,,,,,,,,824.0,900.0,,D4
+etsr1e5pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.5,1.5,1.5,,,,,,,,,,498.0,534.0,75.4,E-5
+etsr1d5pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.4,1.5,1.5,,,,,,,,,,500.0,532.0,70.7,D-5
+dfwsav-3009pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,3.21,7.4,8.61,,,,,,,,,,1925.0,2104.0,,3009
+dfwsav-3202pdub,Unknown,Raritan,PX-5273,1.5.8-11272,Good,5.06,5.19,3.37,,,,,,,,,,1542.0,1612.0,,3202
+DFWSAV-3205PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,1.54,2.37,1.19,,,,,,,,,,530.0,580.0,,3205
+NOI25A-3F-IDC2-L4-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.5,,,,,,,,,,,,1416.0,1498.0,,""
+etsr1d3pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.5,1.0,,,,,,,,,,531.0,593.0,68.4,D-3
+etsr1f5pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.5,5.0,2.5,,,,,,,,,,990.0,1202.0,74.5,F-5
+DFWSAV-3206PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,2.25,0.0,2.25,,,,,,,,,,444.0,464.0,,3206
+nycidcpdu01,USA - NYC - 1540 Broadway - 17th Floor - IDC,Raritan,DPXS20-20L,1.5.8-11272,Good,1.58,,,,,,,,,,,,122.0,139.0,,""
+DFWSAV-3211PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,3.73,4.13,4.93,,,,,,,,,,1290.0,1542.0,,3211
+DFWSAV-3208PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Critical,,,,,,,,,,,,,,,,3208
+etsr1f4pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.3,6.3,4.4,,,,,,,,,,1554.0,1712.0,74.5,F-4
+Tyo19b-pdu-4,,Raritan,PX3-5201JR,3.1.11.5-42329,Good,4.615,,,,,,,,,,,,856.0,910.0,,ServerRack2
+tyo19b-pdu-6,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,2.091,,,,,,,,,,,,362.0,413.0,,ServerRack3
+etsr1d2pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.6,1.6,1.4,,,,,,,,,,504.0,550.0,69.6,D-2
+etsr1d3pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.1,2.1,1.5,,,,,,,,,,604.0,658.0,68.2,D-3
+etsr1d4pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.1,2.1,1.4,,,,,,,,,,604.0,654.0,66.0,D-4
+etsr1e1pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,2.9,1.6,,,,,,,,,,581.0,692.0,70.0,E-1
+ETSR2-Z2A06-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.04,5.89,5.19,,,,,,,,,,1842.0,2013.0,,Z2A06
+DFWSAV-3206PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,2.69,0.9,2.08,,,,,,,,,,606.0,606.0,,3206
+etsr1e4pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.0,2.0,1.4,,,,,,,,,,581.0,639.0,72.3,E-4
+Noida132-3FITLAB-R2-RightPDU,,Raritan,PX2-2493,3.1.0.5-42165,Good,3.2,,,,,,,,,,,,624.0,748.0,,Rack 2
+etsr1e1pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,2.9,1.6,,,,,,,,,,572.0,683.0,73.9,E-1
+AT06MDCCAB8PDUB,Unknown,Raritan,DPXS20-20L,1.5.8-11272,Critical,,,,,,,,,,,,,,,,SJ-AT06 MDC
+etsr1f2pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.2,4.9,6.1,,,,,,,,,,1486.0,1606.0,79.2,F-2
+DFWSAV-3209PDUb,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.04,6.04,5.89,,,,,,,,,,2104.0,2104.0,,3209
+DFWSAV-3207PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,3207
+AT06MDCCAB8PDUA,Unknown,Raritan,DPXS20-20L,1.5.8-11272,Critical,,,,,,,,,,,,,,,,SJ-AT06 MDC
+Tyo19b-pdu-8,,Raritan,PX3-5201JR,3.1.11.5-42329,Good,0.991,,,,,,,,,,,,159.0,196.0,,Rack3
+ETSR1I5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.0,0.5,0.5,,,,,,,,,,70.0,94.0,74.1,I-5
+nycidcpdu03,USA - NYC - 1540 Broadway - 17th Floor - IDC,Raritan,PX-3420,1.5.8-11272,Good,1.58,1.54,1.58,1.75,,,,,,,,,1259.0,1346.0,,""
+ETSR2-Z1B05-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.19,6.52,6.19,,,,,,,,,,2104.0,2300.0,,Z1B05
+sf410pdua-FL2R1,Unknown,Raritan,DPXR8-20L,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,Floor 2 Rack 1
+DFWSAV-3207PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,0.11,0.11,0.0,,,,,,,,,,7.0,23.0,,3207
+Tyo19b-pdu-9,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,2.612,,,,,,,,,,,,451.0,515.0,,NetworkRack2
+etsr1d4pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.4,2.4,1.5,,,,,,,,,,669.0,712.0,69.6,D-4
+DFWSAV-3210PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.24,3.73,4.46,,,,,,,,,,1181.0,1475.0,,3210
+DFWSAV-3208PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.35,6.19,5.89,,,,,,,,,,2200.0,2200.0,,3208
+pdu02-ntn-idc339,,Raritan,PX2-2497,2.5.30.5-41228,Good,6.4,,,,,,,,,,,,1216.0,1303.0,,Rack #1
+pdu01-ntn-idc339,,Raritan,PX2-2497,3.1.0.5-42165,Good,5.2,,,,,,,,,,,,1003.0,1061.0,71.6,Rack #1
+Tyo-19b-pdu-3,,Raritan,PX3-5201JR,3.1.11.5-42329,Good,4.715,,,,,,,,,,,,872.0,930.0,,ServerRack2
+sf410pdub-Fl2R2,Unknown,Raritan,DPXR20-20L,1.5.8-11272,Good,3.93,,,,,,,,,,,,425.0,464.0,,Floor 2 Rack 2
+SF410PDUA-FL3R1,Unknown,Raritan,DPXR8-20L,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,Floor 3 Rack 1
+dfwsav-3004pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.32,4.93,6.04,,,,,,,,,,1842.0,1925.0,,3004
+Noida132-3FITLAB-R4-LeftPDU,,Raritan,PX2-2493,3.0.4.5-41800,Good,2.2,,,,,,,,,,,,365.0,521.0,,Rack 4
+dfwsav-3111pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,8.61,8.83,3.37,,,,,,,,,,2200.0,2404.0,,3111
+ATSRB0PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.3,2.1,2.1,,,,,,,,,,403.0,777.0,,B0
+nycidcpdu04,USA - NYC - 1540 Broadway - 17th Floor - IDC,Raritan,PX-3420,1.5.8-11272,Good,1.58,1.75,1.58,1.62,,,,,,,,,1259.0,1361.0,,""
+ATSRB7PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.2,2.4,2.2,,,,,,,,,,625.0,808.0,,B7
+dfwsav-3003pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,2.03,2.55,1.66,,,,,,,,,,692.0,724.0,,3003
+DFWSAV-3210PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.46,4.46,4.93,,,,,,,,,,1410.0,1612.0,,3210
+ATSRA1PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.3,5.4,8.3,,,,,,,,,,2206.0,2351.0,,A1
+tyo19b-pdu-11,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,3.245,,,,,,,,,,,,580.0,640.0,,NetworkRack2
+atsra8pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.9,5.4,4.8,,,,,,,,,,1503.0,1683.0,,A8
+dfwsav-3111pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,6.85,6.52,3.29,,,,,,,,,,1761.0,1925.0,,3111
+tyo19b-pdu-12,,Raritan,PX3-5497JV,3.1.11.5-42329,Good,3.598,,,,,,,,,,,,608.0,710.0,,NetworkRack1
+Tyo20idc-pdu-1,,Raritan,PX3-5180JR,3.1.11.5-42329,Good,1.283,,,,,,,,,,,,241.0,256.0,,ServerRack1
+atsra6pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.5,0.0,0.5,,,,,,,,,,77.0,104.0,,A6
+atsra6pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.5,0.0,0.5,,,,,,,,,,78.0,104.0,,A6
+dfwsav-3110pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.89,7.03,6.52,,,,,,,,,,2104.0,2300.0,,3110
+dfwsav-3011pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,5.6,3.37,7.4,,,,,,,,,,1761.0,1842.0,,3011
+ATSRD8PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.1,2.5,2.6,,,,,,,,,,761.0,872.0,,D8
+ETSR1I3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.0,5.2,6.0,,,,,,,,,,1921.0,2008.0,73.2,I-3
+minnesota-pdu-3,"Arden Hills, MN",Raritan,DPXS20-20L,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,Minnesota
+dfwsav-3011pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,6.04,2.43,6.85,,,,,,,,,,1542.0,1685.0,,3011
+dfwsav-3104pdub,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,8.18,13.93,8.18,,,,,,,,,,3282.0,3431.0,,3104
+ATSRD0PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.2,0.9,0.8,,,,,,,,,,90.0,202.0,,D0
+ATSRA1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.8,7.8,9.9,,,,,,,,,,2396.0,2565.0,72.0,A1
+WTSR-C4-6,WTSR C4-6,Raritan,DPCR8-15,1.5.8-11272,Good,0.0,,,,,,,,,,,,0.0,0.0,,C-4-6
+ATSRB1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.7,0.7,0.0,,,,,,,,,,128.0,152.0,,B1
+etsr1d2pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.4,1.4,1.4,,,,,,,,,,468.0,507.0,68.5,D-2
+atsra5pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.4,4.1,4.8,,,,,,,,,,1309.0,1454.0,,A5
+ETSR2-Z1B01-PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.89,5.46,6.04,,,,,,,,,,1925.0,2013.0,,Z1B01
+atsra9pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.9,3.0,2.4,,,,,,,,,,787.0,994.0,,A9
+etsr1f4pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.4,1.7,1.1,,,,,,,,,,147.0,485.0,73.9,F-4
+etsr2z1f11pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.8,5.5,6.2,,,,,,,,,,1947.0,2092.0,,Z1F11
+pdu02-ntn-idc354,,Raritan,PX2-2497,3.1.0.5-42165,Critical,,,,,,,,,,,,,,,,Rack #1
+atsra2pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.7,2.7,1.3,,,,,,,,,,739.0,776.0,,A2
+atsra4pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Critical,,,,,,,,,,,,,,,,A4
+tyo19b-pdu-13,,Raritan,PX3-5138JR,3.1.0.5-42165,Good,0.282,,,,,,,,,,,,14.0,28.0,,NetworkRack1
+etsr2z1f11pdua,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,6.0,5.4,6.4,,,,,,,,,,1977.0,2120.0,,Z1F11
+ATSRC9PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.9,2.7,3.0,,,,,,,,,,827.0,1024.0,,C9
+ATSRC8PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.6,5.9,5.7,,,,,,,,,,1936.0,2061.0,,C8
+ATSRB8PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.9,2.5,1.9,,,,,,,,,,593.0,752.0,,B8
+ATSRB3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.1,4.7,5.1,,,,,,,,,,1448.0,1668.0,,B3
+ATSRC3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.7,0.7,0.0,,,,,,,,,,119.0,148.0,,C3
+ATSRB4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.7,3.8,4.5,,,,,,,,,,1202.0,1435.0,,B4
+ATSRD4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.5,2.9,2.4,,,,,,,,,,741.0,789.0,,D4
+tyo19b-pdu-7,,Raritan,PX3-5201JR,3.1.11.5-42329,Good,0.274,,,,,,,,,,,,37.0,54.0,,Rack7
+ATSRD1PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.7,2.4,1.9,,,,,,,,,,429.0,555.0,,D1
+etsr1d1pdub,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,3.8,6.2,3.7,,,,,,,,,,1454.0,1520.0,68.7,D-1
+ETSR2-Z2A13-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,6.04,5.74,6.04,,,,,,,,,,2013.0,2104.0,,Z2A13
+ETSR2-Z2B03-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,5.32,3.73,4.93,,,,,,,,,,1542.0,1612.0,,Z2B03
+ETSR2-Z2B03-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,3.29,3.37,3.13,,,,,,,,,,1129.0,1129.0,,Z2B03
+ETSR2-Z2B01-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,6.04,4.81,7.58,,,,,,,,,,2013.0,2200.0,,Z2B01
+ETSR2-Z2A13-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,7.4,4.57,6.35,,,,,,,,,,2104.0,2104.0,,Z2A13
+ETSR2-Z2B01-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,7.58,6.85,7.03,,,,,,,,,,2404.0,2514.0,,Z2B01
+ETSR2-Z2B04-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,2.55,2.31,1.93,,,,,,,,,,692.0,791.0,,Z2B04
+ETSR2-Z2B04-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,2.43,2.82,1.93,,,,,,,,,,724.0,827.0,,Z2B04
+ETSR2-Z2E01-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,9.77,10.02,9.77,,,,,,,,,,3431.0,3431.0,,Z2E01
+ETSR2-Z2E02-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.93,5.74,6.04,,,,,,,,,,1925.0,1925.0,,Z2E02
+ETSR2-Z2E02-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,5.74,5.74,4.46,,,,,,,,,,1761.0,1842.0,,Z2E02
+ETSR2-Z2E03-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,9.53,9.53,16.22,,,,,,,,,,3750.0,3921.0,,Z2E03
+ETSR2-Z2E06-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,3.37,2.69,1.05,,,,,,,,,,724.0,757.0,,Z2E06
+ETSR2-Z2E06-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.03,2.9,1.66,,,,,,,,,,827.0,945.0,,Z2E06
+ETSR2-Z2E09-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.34,2.49,2.69,,,,,,,,,,945.0,1080.0,,Z2E09
+ETSR2-Z2E07-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,8.61,10.81,8.18,,,,,,,,,,3139.0,3282.0,,Z2E07
+ETSR2-Z2E07-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,24.95,11.09,24.32,,,,,,,,,,3139.0,6683.0,,Z2E07
+ETSR2-Z2E08-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.03,6.85,9.06,,,,,,,,,,2013.0,2200.0,,Z2E08
+ETSR2-Z2E08-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,5.6,4.81,5.6,,,,,,,,,,1761.0,1842.0,,Z2E08
+ETSR2-Z2E09-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,3.29,3.46,4.93,,,,,,,,,,1234.0,1349.0,,Z2E09
+ETSR2-Z2E10-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,7.78,9.77,8.61,,,,,,,,,,2872.0,3139.0,,Z2E10
+ETSR2-Z2E10-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,9.06,11.09,8.39,,,,,,,,,,3139.0,3431.0,,Z2E10
+ETSR2-Z2E11-PDUA,Unknown,Raritan,PX-5522,1.3.5-8847,Good,2.69,6.19,4.46,,,,,,,,,,1410.0,1475.0,,Z2E11
+ETSR2-Z2E14-PDUB,,Raritan,PX3-5434R,3.1.0.5-42165,Good,3.629,,,,,,,,,,,,713.0,739.0,,Z2E14
+ETSR2-Z2E03-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,9.77,9.53,16.22,,,,,,,,,,3921.0,3921.0,,Z2E03
+ETSR2-Z2E11-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,2.82,6.19,4.34,,,,,,,,,,1410.0,1475.0,,Z2E11
+ETSR2-Z2E04-PDUA,"San Jose, ETSR-2",Raritan,PX-5273,1.5.8-11272,Good,8.83,4.57,7.78,,,,,,,,,,2404.0,2404.0,,Z2E04
+ETSR2-Z2D04-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.3,1.0,2.0,,,,,,,,,,434.0,615.0,,Z2D04
+ETSR2-Z2E04-PDUB,"San Jose, ETSR-2",Raritan,PX-5273,1.5.8-11272,Good,0.42,1.98,2.08,,,,,,,,,,388.0,485.0,,Z2E04
+ETSR2-Z2D04-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.6,2.6,0.7,,,,,,,,,,463.0,653.0,,Z2D04
+ETSR2-Z2E07-PDUC,Unknown,Raritan,DPXR8A-20L6,1.4.0-9851,Good,3.55,,,,,,,,,,,,606.0,724.0,,Z2E07
+ETSR2-Z2E08-PDUC,Unknown,Raritan,DPXR8A-20L6,1.4.0-9851,Good,7.4,,,,,,,,,,,,1410.0,1475.0,,Z2E08
+ETSR2-Z2E07-PDUD,Unknown,Raritan,DPXR8A-20L6,1.4.0-9851,Good,8.83,,,,,,,,,,,,1761.0,1842.0,,Z2E07
+SJE08PDUD,,Raritan,PX2-5339R,3.2.30.5-43188,Good,1.4,2.3,1.2,,,,,,,,,,499.0,539.0,,Rack 3
+ETSR2-Z2E14-PDUA,,Raritan,PX3-5434R,3.1.0.5-42165,Good,3.379,,,,,,,,,,,,668.0,695.0,,Z2E14
+ETSR2-Z2E08-PDUD,Unknown,Raritan,DPXR8A-20L6,1.4.0-9851,Good,6.35,,,,,,,,,,,,1181.0,1290.0,,Z2E08
+SJE08PDUB,,Raritan,PX2-5339R,3.2.30.5-43188,Good,1.4,2.4,1.4,,,,,,,,,,528.0,562.0,,Rack 2
+SJE08PDUC,,Raritan,PX2-5339R,3.2.30.5-43188,Good,1.3,2.2,1.2,,,,,,,,,,481.0,520.0,,Rack 3
+dfwsav-3010pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,2.25,3.29,4.03,,,,,,,,,,945.0,1080.0,,3010
+SJE08PDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,1.5,2.5,1.3,,,,,,,,,,548.0,582.0,,Rack 2
+ETSR1J5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.8,5.7,4.6,,,,,,,,,,1797.0,1873.0,69.6,J-5
+seamsrpducab15-1-1,Unknown,Raritan,DPXS20-20L,1.5.8-11272,Good,5.06,,,,,,,,,,,,554.0,606.0,,15-1
+NOI25A-1B-MUX1,,Raritan,PX3TS-1469R,3.2.10.5-42978,Good,1.789,0.073,,,,,,,,,,,342.0,432.0,78.4,""
+7th West px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.7,,,,,,,,,,,,1253.0,1308.0,73.2,7th floor IDC – West
+Mil-pdu-1,,Raritan,PX2-2488C,3.1.0.5-42165,Good,1.1,,,,,,,,,,,,214.0,237.0,,Cab 1
+bar-pdu-1,Unknown,Raritan,DPXS12A-16,1.3.17-9504,Good,1.66,,,,,,,,,,,,297.0,388.0,,Barcelona
+ATSRG2PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.5,1.8,1.5,,,,,,,,,,527.0,580.0,72.0,G2
+ATSRG3PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.3,1.9,0.8,,,,,,,,,,520.0,543.0,74.7,G3
+noida132-6fitlab-r5-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Good,1.2,,,,,,,,,,,,134.0,272.0,,Rack 5
+NOI25A-1F-IDC-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,4.9,,,,,,,,,,,,1066.0,1143.0,72.1,""
+NOI25A-3F-IDC2-L3-Rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.6,,,,,,,,,,,,1446.0,1505.0,76.5,""
+WTSRTELCO4PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,1.9,3.2,,,,,,,,,,721.0,759.0,,Telco-4
+dfwsav-3010pdua,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,2.55,1.62,2.69,,,,,,,,,,606.0,827.0,,3010
+bru-pdu-1,,Raritan,PX2-2488C,3.1.0.5-42165,Good,2.8,,,,,,,,,,,,567.0,652.0,,Cab 1
+SJA02MPOEATS,,Raritan,PX3TS-1147R,3.1.0.5-42165,Good,0.088,3.472,,,,,,,,,,,402.0,424.0,,Telco rack
+du1pdu-e11-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,7.95,,,,,,,,,,,,1712.0,1814.0,,E-11
+ATSRA0PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.7,2.1,1.5,,,,,,,,,,455.0,639.0,63.3,A0
+4th West px-row1-rack1,,Raritan,PX2-5844R,3.1.0.5-42165,Good,6.3,,,,,,,,,,,,1396.0,1447.0,78.6,4th floor IDC – West
+du1pdu-e10-2,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,11.126,,,,,,,,,,,,2351.0,2532.0,,E-10
+du1pdu-e10-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,11.838,,,,,,,,,,,,2549.0,2690.0,,E-10
+du1pdu-e11-1,,Raritan,PX3-5466R-A4D1,3.1.0.5-42165,Good,6.922,,,,,,,,,,,,1438.0,1573.0,67.6,E-11
+noida132-6fitlab-r6-leftpdu,,Raritan,PX2-2493,3.1.0.5-42165,Good,1.1,,,,,,,,,,,,160.0,250.0,,Rack 6
+ham-mdc-pdu5,,Raritan,PX2-2488,3.1.0.5-42165,Good,1.3,,,,,,,,,,,,262.0,290.0,,4th fl Rack3
+Mil-pdu-3,,Raritan,PX2-2190CR,3.1.0.5-42165,Good,3.4,,,,,,,,,,,,693.0,778.0,,Rack 2
+ATSRG2PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.1,1.9,1.7,,,,,,,,,,639.0,681.0,72.1,G2
+WTSRTELCO4PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,1.8,3.1,,,,,,,,,,712.0,749.0,,Telco-4
+ham-mdc-pdu6,,Raritan,PX2-2488,3.1.0.5-42165,Good,0.8,,,,,,,,,,,,132.0,188.0,,4th fl Rack3
+WTSRTELCO3PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.8,1.9,3.2,,,,,,,,,,724.0,762.0,,Telco-3
+dfwsav-3107pdua,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.57,5.32,5.19,,,,,,,,,,1612.0,1761.0,,3107
+WTSRTELCO3PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.9,1.8,3.3,,,,,,,,,,744.0,783.0,,Telco-3
+DFWSAV-3102PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,4.69,4.69,0.0,,,,,,,,,,904.0,988.0,,3102
+ATSRG3PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,3.0,2.7,1.8,,,,,,,,,,813.0,879.0,72.1,G3
+DFWSAV-3001PDUB,Unknown,Raritan,PX-5522,1.5.8-11272,Good,6.52,5.74,1.32,,,,,,,,,,1349.0,1410.0,,3001
+ATSRG6PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,1.6,1.7,1.6,,,,,,,,,,535.0,585.0,70.7,G6
+dfwsav-3103pdub,DFW/SAVVIS,Raritan,PX-5902T,1.5.8-11272,Good,4.03,4.03,3.83,,,,,,,,,,1349.0,1410.0,,3103
+NOI25A-3F-IDC1-L2-Rack2,,Raritan,PX2-5844R,3.1.0.5-42165,Good,5.8,,,,,,,,,,,,1234.0,1323.0,,""
+bru-pdu-2,pdu-brussels-2,Raritan,DPXR8A-16,1.3.5-8847,Good,1.75,,,,,,,,,,,,325.0,406.0,65.3,Rack 1
+seamsrpducab2-2-1,,Raritan,PX2-5339R,3.1.0.5-42165,Good,2.0,2.0,3.5,,,,,,,,,,762.0,824.0,,2-2
+bru-pdu-3,,Raritan,PX2-2190CR,3.1.0.5-42165,Good,1.3,,,,,,,,,,,,270.0,307.0,,Rack 2
+ETSR1A5PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,2.1,2.6,2.2,,,,,,,,,,240.0,803.0,72.3,A-5
+ETSR1A5PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,4.6,4.9,4.7,,,,,,,,,,1172.0,1666.0,72.5,A-5
+ham-mdc-pdu7,,Raritan,PX2-2488,3.1.0.5-42165,Good,3.3,,,,,,,,,,,,673.0,755.0,,4th fl Rack2
+seamsrpducab351,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,4.34,,,,,,,,,,,,485.0,507.0,,3-5
+seamsrpducab2-4-1,,Raritan,PX2-5339R,3.1.0.5-42165,Good,1.5,3.0,2.0,,,,,,,,,,660.0,721.0,82.6,2-4
+seamsrpdu15-2-2,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,2.9,,,,,,,,,,,,340.0,371.0,,15-2
+Noida132-3FITLAB-R3-LeftPDU,,Raritan,PX2-2493,3.0.4.5-41800,Good,2.5,,,,,,,,,,,,451.0,567.0,,Rack 3
+seamsrpducab21-4-1,Seattle MSR cab 21,Raritan,DPXS20-20L,1.4.1-10051,Good,12.91,,,,,,,,,,,,1410.0,1475.0,,21-4
+seamsrpducab2-4-2,,Raritan,PX2-5339R,3.1.0.5-42165,Good,2.3,3.7,1.9,,,,,,,,,,825.0,881.0,,2-4
+seamsrpducab2-2-2,,Raritan,PX2-5339R,3.1.0.5-42165,Good,2.0,2.1,3.5,,,,,,,,,,762.0,823.0,,2-2
+seamsrpducab352,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,5.19,,,,,,,,,,,,580.0,606.0,,3-5
+ber-pdu-1,,Raritan,PX2-2488,3.1.0.5-42165,Good,4.5,,,,,,,,,,,,941.0,1033.0,,Rack-1
+seamsrpducab121,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,4.24,,,,,,,,,,,,464.0,485.0,,1-2
+seamsrpdu9-2-1,seattle msr cab 9-2,Raritan,DPXR20-20L,1.4.1-10051,Good,2.08,,,,,,,,,,,,18.0,554.0,,9-2
+seamsrpdu21-1-1,seattle msr cab 21,Raritan,PX-5464T,1.5.0-10316,Good,3.37,,,,,,,,,,,,464.0,692.0,,21-1
+seamsrpdu15-3-2,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,7.98,,,,,,,,,,,,904.0,945.0,,15-3
+seamsrpducab122,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,3.83,,,,,,,,,,,,425.0,444.0,,1-2
+seamsrpdu21-1-2,seattle msr cab 21-1,Raritan,PX-5464T,1.5.0-10316,Good,3.46,,,,,,,,,,,,485.0,724.0,,21-1
+seamsrpdu23-4-1,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,6.35,,,,,,,,,,,,724.0,757.0,,23-4
+seamsrpducab15-5-2,seattle msr cab 15-5,Raritan,PX-5464T,1.5.0-10316,Good,3.29,,,,,,,,,,,,425.0,692.0,,15-5
+seamsrpducab342,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,0.82,,,,,,,,,,,,78.0,93.0,,3-4
+seamsrpdu9-1-1,seattle msr cab 9-1,Raritan,DPXR20-20L,1.4.1-10051,Good,2.03,,,,,,,,,,,,228.0,238.0,,9-1
+seamsrpdu23-3-1,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,0.0,,,,,,,,,,,,0.0,0.0,,23-3
+nycidcpdu05,USA - NYC - 1540 Broadway - 17th Floor - IDC,Raritan,DPXR20-20L,1.5.8-11272,Good,2.75,,,,,,,,,,,,249.0,340.0,,""
+dfwsav-3003pdub,DFW/SAVVIS,Raritan,PX-5522,1.5.8-11272,Good,2.08,3.21,2.37,,,,,,,,,,827.0,904.0,,3003
+seamsrpdu23-4-2,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,6.68,,,,,,,,,,,,791.0,791.0,,23-4
+seamsrpducab15-5-1,seattle msr cab 15-5,Raritan,PX-5464T,1.5.0-10316,Good,3.21,,,,,,,,,,,,406.0,662.0,,15-5
+nycidcpdu02,USA - NYC - 1540 Broadway - 17th Floor - IDC,Raritan,DPXS20-20L,1.5.8-11272,Good,1.98,,,,,,,,,,,,208.0,228.0,,""
+seamsrpdu9-4-1,seattle msr cab 9-4,Raritan,DPXR20-20L,1.4.1-10051,Good,1.98,,,,,,,,,,,,18.0,199.0,,9-4
+seamsrpdu9-4-2,seattle msr cab 9-4,Raritan,DPXR20-20L,1.4.1-10051,Good,2.31,,,,,,,,,,,,260.0,272.0,,9-4
+Noida132-3FITLAB-R2-LeftPDU,,Raritan,PX2-2493,3.1.0.5-42165,Good,2.9,,,,,,,,,,,,523.0,670.0,,Rack 2
+seamsrpdu19-3-1,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,5.32,,,,,,,,,,,,554.0,634.0,,19-3
+seamsrpdu15-3-1,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,8.18,,,,,,,,,,,,945.0,945.0,,15-3
+seamsrpducab21-4-2,seattle MSR row 21 cab 4,Raritan,DPXS20-20L,1.4.1-10051,Good,14.29,,,,,,,,,,,,1542.0,1685.0,,21-4
+seamsrpducab16-1-2,Seattle msr cab 16-1,Raritan,PX-5119,1.5.5-10603,Good,3.05,5.32,3.13,,,,,,,,,,1129.0,1290.0,,16-1
+ETSR2Z2C4PDUB,,Raritan,PX2-5339R,3.2.30.5-43188,Good,10.3,9.5,6.8,,,,,,,,,,2967.0,3115.0,,Z2C04
+ETSR2Z1E10BPDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,7.8,3.6,5.3,,,,,,,,,,1785.0,1855.0,78.8,Z1E10(B)
+min-idc307-pdu01,,Raritan,PX2-2288R-N1,3.1.0.5-42165,Good,3.6,,,,,,,,,,,,699.0,753.0,70.0,Rack #1
+tyo19b-pdu-14,,Raritan,PX3-5497JV,3.2.30.5-43188,Good,3.785,,,,,,,,,,,,674.0,748.0,,NetworkRack1
+ATSRB0PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,1.7,2.3,2.3,,,,,,,,,,410.0,721.0,,B0
+ETSR2Z1E10APDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,7.6,3.7,5.1,,,,,,,,,,1739.0,1805.0,76.1,Z1E10(A)
+seamsrpdu15-2-1,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,10.81,,,,,,,,,,,,1181.0,1234.0,,15-2
+ETSR2Z2C4PDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,3.7,1.3,4.5,,,,,,,,,,959.0,1019.0,,Z2C04
+ETSR2Z1E5.5APDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,3.8,4.6,1.4,,,,,,,,,,1010.0,1068.0,,Z1E5.5(A)
+ATSRC8PDUA,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,5.6,5.9,5.7,,,,,,,,,,1935.0,2055.0,,C8
+ATSRC0PDUB,,Raritan,PX2-5522-E2N1,3.1.0.5-42165,Good,0.5,0.5,0.0,,,,,,,,,,85.0,113.0,,C0
+ETSR2Z1E5.5APDUB,,Raritan,PX2-2497,2.3.7.5-39116,Good,5.2,,,,,,,,,,,,998.0,1061.0,,Z1E5.5(A)
+ETSR2Z2C5PDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,11.1,9.5,4.6,,,,,,,,,,2717.0,2849.0,63.1,Z2C05
+ETSR2Z2C4PDUC,,Raritan,PX2-5339R,3.2.30.5-43188,Good,3.8,4.6,1.4,,,,,,,,,,1010.0,1067.0,64.2,Z2C04
+ETSR2Z1E5.5BPDUA,,Raritan,PX2-5339R,3.2.30.5-43188,Good,3.9,4.6,1.4,,,,,,,,,,1018.0,1089.0,75.0,Z1E5.5(B)
+seamsrpducab341,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,1.05,,,,,,,,,,,,102.0,122.0,,3-4
+ETSR2Z1E5.5APDUC,,Raritan,PX2-2497,2.3.7.5-39116,Good,5.3,,,,,,,,,,,,1032.0,1090.0,73.8,Z1E5.5(A)
+seamsrpducab321,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,3.93,,,,,,,,,,,,444.0,464.0,,3-2
+ETSR2-Z1A03-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1A03
+seamsrpdu15-4-2,Unknown,Raritan,DPXS20-20L,1.3.5-7832,Good,1.35,,,,,,,,,,,,122.0,159.0,,15-4
+ETSR2-Z1B02-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.5.8-11272,Good,0.76,0.76,0.0,,,,,,,,,,146.0,159.0,,Z1B02
+ETSR2-Z1A02-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.69,6.04,4.03,,,,,,,,,,1612.0,1685.0,,Z1A02
+ETSR2-Z1A01-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,5.4,4.6,1.3,,,,,,,,,,1169.0,1211.0,,Z1A01
+ETSR2-Z1A03-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1A03
+ETSR2-Z1C03-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,5.2,4.6,5.2,,,,,,,,,,1765.0,1783.0,,Z1C03
+ETSR2-Z1A01-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,2.7,1.0,2.3,,,,,,,,,,560.0,676.0,,Z1A01
+ETSR2-Z1A02-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,4.46,5.89,4.13,,,,,,,,,,1612.0,1685.0,,Z1A02
+ETSR2-Z1B02-PDUB,"San Jose, ETSR-2",Raritan,PX-5522,1.5.8-11272,Good,1.0,1.0,0.0,,,,,,,,,,199.0,208.0,,Z1B02
+ETSR2-Z1A05-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,0.84,1.46,0.84,,,,,,,,,,325.0,340.0,,Z1A05
+ETSR2-Z1A05-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,0.82,1.29,0.68,,,,,,,,,,284.0,311.0,,Z1A05
+ETSR2-Z1C04-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1C04
+ETSR2-Z1B04-PDUB,Unknown,Raritan,PX-5522,1.4.0-9851,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1B04
+ETSR2-Z1C04-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1C04
+ETSR2-Z1C03-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,4.4,4.5,4.3,,,,,,,,,,1539.0,1559.0,,Z1C03
+ETSR2-Z1B04-PDUA,Unknown,Raritan,PX-5522,1.4.0-9851,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1B04
+ETSR2-Z1B03-PDUA,Unknown,Raritan,PX-5522,1.3.5-7832,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1B03
+ETSR2-Z1B03-PDUB,Unknown,Raritan,PX-5522,1.3.5-7832,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1B03
+ETSR2-Z1C02-PDUA,Unknown,Raritan,PX-5522,1.3.5-8847,Good,6.35,5.19,6.68,,,,,,,,,,2013.0,2104.0,,Z1C02
+ETSR2-Z1C02-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,6.35,5.06,6.04,,,,,,,,,,1925.0,2104.0,,Z1C02
+ETSR2-Z1D01-PDUA,Unknown,Raritan,PX-5522,1.4.0-9851,Good,7.98,8.83,7.4,,,,,,,,,,2872.0,2872.0,,Z1D01
+ETSR2-Z1E03-PDUB,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,4.93,6.68,2.75,,,,,,,,,,1612.0,1612.0,,Z1E03
+ETSR2-Z1D04-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.19,4.93,6.04,,,,,,,,,,1842.0,1925.0,,Z1D04
+ETSR2-Z1F10-PDUA,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,4.9,4.6,5.2,,,,,,,,,,1627.0,1751.0,,Z1F10
+ETSR2-Z1F02-PDUB,,Raritan,PX3-1902R,3.1.0.5-42165,Good,11.0,6.284,10.079,,,,,,,,,,3127.0,3237.0,,Z1F02
+ETSR2-Z1D04-PDUB,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.19,4.93,5.89,,,,,,,,,,1842.0,1925.0,,Z1D04
+ETSR2-Z1E04-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1E04
+ETSR2-Z1D01-PDUB,Unknown,Raritan,PX-5522,1.4.0-9851,Good,5.74,4.93,5.6,,,,,,,,,,1925.0,1925.0,,Z1D01
+ETSR2-Z1F01-PDUB,Unknown,Raritan,PX-5522,1.4.1-10051,Good,1.62,1.62,0.0,,,,,,,,,,284.0,340.0,,Z1F01
+ETSR2-Z1E02-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.46,7.98,6.85,,,,,,,,,,2200.0,2404.0,,Z1E02
+ETSR2-Z1E04-PDUB,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1E04
+ETSR2-Z1E02-PDUB,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,7.58,7.21,6.85,,,,,,,,,,2514.0,2628.0,,Z1E02
+ETSR2-Z1E03-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.32,7.03,2.69,,,,,,,,,,1612.0,1685.0,,Z1E03
+ETSR2-Z1F03-PDUA,,Raritan,PX3-1902R,3.1.0.5-42165,Good,11.518,14.571,19.138,,,,,,,,,,5121.0,5334.0,,Z1F03
+ETSR2-Z1E05-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.6,5.19,5.89,,,,,,,,,,1842.0,2013.0,,Z1E05
+ETSR2-Z1F02-PDUA,,Raritan,PX3-1902R,3.1.0.5-42165,Good,3.619,4.932,3.251,,,,,,,,,,1302.0,1398.0,,Z1F02
+ETSR2-Z1F03-PDUB,,Raritan,PX3-1902R,3.1.0.5-42165,Good,13.027,19.871,14.777,,,,,,,,,,5413.0,5622.0,,Z1F03
+ETSR2-Z1F01-PDUA,Unknown,Raritan,PX-5522,1.4.0-9851,Good,1.79,1.79,0.0,,,,,,,,,,325.0,371.0,,Z1F01
+ETSR2-Z1F10-PDUB,,Raritan,PX2-5522-E2N1,2.4.1.5-39763,Good,5.2,5.0,5.3,,,,,,,,,,1696.0,1845.0,,Z1F10
+ETSR2-Z1F06-PDUA,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.3,0.3,0.0,,,,,,,,,,30.0,68.0,,Z1F06
+seamsrpducab322,Unknown,Raritan,DPXR20-20L,1.3.5-7832,Good,1.39,,,,,,,,,,,,152.0,167.0,,3-2
+ETSR2-Z1F06-PDUB,,Raritan,PX2-5522-E2N1,2.4.3.5-40298,Good,0.0,0.0,0.0,,,,,,,,,,0.0,0.0,,Z1F06
+ETSR2-Z1F07-PDUA,Unknown,Raritan,PX-5522,1.3.5-8847,Good,2.97,5.32,3.13,,,,,,,,,,1234.0,1234.0,,Z1F07
+ETSR2-Z1F07-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,1.88,2.82,1.32,,,,,,,,,,554.0,662.0,,Z1F07
+ETSR2-Z1F08-PDUA,Unknown,Raritan,PX-5522,1.3.5-8847,Good,0.3,0.3,0.52,,,,,,,,,,122.0,122.0,,Z1F08
+ETSR2-Z1F08-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,0.33,0.38,0.62,,,,,,,,,,139.0,146.0,,Z1F08
+ETSR2-Z2A11-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,6.35,4.57,7.4,,,,,,,,,,2013.0,2104.0,,Z2A11
+ETSR2-Z2A11-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,6.52,5.89,6.04,,,,,,,,,,2104.0,2200.0,,Z2A11
+ETSR2-Z1F09-PDUA,Unknown,Raritan,PX-5522,1.3.5-8847,Good,5.46,5.06,5.89,,,,,,,,,,1761.0,1925.0,,Z1F09
+ETSR2-Z1F09-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,5.89,5.46,6.04,,,,,,,,,,1925.0,2013.0,,Z1F09
+ETSR2-Z2A08-PDUA,"San Jose, ETSR-1",Raritan,PX-5522,1.5.8-11272,Good,6.68,8.39,7.21,,,,,,,,,,2514.0,2628.0,,Z2A08
+ETSR2-Z2A09-PDUA,"San Jose, ETSR-2",Raritan,PX-5522,1.4.1-10051,Good,5.89,6.04,5.46,,,,,,,,,,1925.0,2104.0,,Z2A09
+ETSR2-Z2E05-PDUA,Unknown,Raritan,PX-5522,1.5.8-11272,Good,5.06,5.06,0.0,,,,,,,,,,1033.0,1033.0,,Z2E05
+ETSR2-Z2A12-PDUB,Unknown,Raritan,PX-5273,1.3.16-9291,Good,7.4,5.32,7.78,,,,,,,,,,2300.0,2404.0,,Z2A12
+ETSR2-Z2A09-PDUB,Unknown,Raritan,PX-5522,1.3.5-8847,Good,6.68,7.03,5.74,,,,,,,,,,2104.0,2300.0,,Z2A09
+ETSR2-Z2A14-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,5.89,6.19,8.83,,,,,,,,,,2300.0,2404.0,,Z2A14
+ETSR2-Z2A12-PDUA,Unknown,Raritan,PX-5273,1.3.16-9291,Good,7.4,5.6,7.78,,,,,,,,,,2300.0,2404.0,,Z2A12
+PDU-BUC-6,Bucharest,APC,AP7952,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,CAB C
+pdu-mun06-d,"DE-Munich Uptown, IDC 6.2 (6??), Rack 02",APC,AP7921,v3.7.4,Good,1.1,,,,,,,,,,,,228.0,228.0,,Rack 2
+pdu-mun04-b,"DE-Munich Uptown, IDC 4 (4??), Rack 02",APC,AP7921,v3.7.4,Good,2.0,,,,,,,,,,,,416.0,416.0,,Rack 2
+PDU-BUC-2,Bucharest,APC,AP7952,v3.7.4,Good,3.3,,,,,,,,,,,,408.0,408.0,,Cab A
+PDU-BUC-7,Bucharest,APC,AP7952,v3.7.4,Good,1.5,,,,,,,,,,,,180.0,180.0,,CAB D
+pdu-mun05-g,"DE-Munich Uptown, MDC (524), Rack 04",APC,AP7921,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,Rack 4
+PDU-BUC-3,Bucharest,APC,AP7952,v3.7.4,Good,1.7,,,,,,,,,,,,204.0,204.0,,Cab B
+PDU-AMS,Amsterdam,APC,AP7921,v3.7.4,Good,2.0,,,,,,,,,,,,416.0,416.0,,Cab 1
+paris-pdu-3,Paris,APC,AP7921,v3.7.4,Critical,,,,,,,,,,,,,,,,Rack 2
+ham-pdu-9,"Hamburg, Germany",APC,AP7951,v3.7.4,Good,1.6,,,,,,,,,,,,368.0,368.0,,1st fl 
+ups-tokyo-19b,Tokyo 19B,APC,Symmetra LX 16000 RM,269.514.S,Good,,,,,,,,,,,,,,,32.0,19b
+ups-tokyo-19a,Tokyo 19A,APC,Symmetra LX 16000,269.514.S,Good,,,,,,,,,,,,,,,33.1,ServerRack1
+pdu-mun05-f,"DE-Munich Uptown, MDC (524), Rack 03",APC,AP7921,v3.7.4,Good,3.1,,,,,,,,,,,,644.0,644.0,,Rack 3
+ups-tokyo-20idc,Tokyo 20IDC,APC,Symmetra LX 8000 RM,229.514.S,Good,,,,,,,,,,,,,,,,ServerRack1
+Dublin Riverwalk PDU 1 - Cabinet B,Dublin Riverwalk,APC,AP7952,v3.7.4,Good,2.7,,,,,,,,,,,,324.0,324.0,,Cabinet 1
+PDU-BUC-4,Bucharest,APC,AP7952,v3.7.4,Good,1.8,,,,,,,,,,,,216.0,216.0,,Cab B
+ham-pdu-5,"Hamburg, Germany",APC,AP7951,v3.7.4,Good,4.4,,,,,,,,,,,,1035.0,1035.0,,1st fl 
+PDU-BUC-8,Bucharest,APC,AP7952,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,CAB D
+pdu-mun05-a,"DE-Munich Uptown, MDC (524), Cabinet 01",APC,AP7951,v3.7.4,Good,4.1,,,,,,,,,,,,943.0,943.0,,Cab 1
+pdu-mun05-c,"DE-Munich Uptown, MDC (524), Cabinet 03",APC,AP7951,v3.7.4,Good,1.2,,,,,,,,,,,,276.0,276.0,,Cab 3
+pdu-mun06-a,"DE-Munich Uptown, IDC 6.1 (6??), Rack 01",APC,AP7921,v3.7.4,Good,1.1,,,,,,,,,,,,228.0,228.0,,Rack 1
+pdu-mun05-d,"DE-Munich Uptown, MDC (524), Rack 01",APC,AP7921,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,Rack 1
+PDU-BUC-1,Bucharest,APC,AP7952,v3.7.4,Good,6.0,,,,,,,,,,,,708.0,708.0,,Cab A
+pdu-mun05-h,"DE-Munich Uptown, MDC (524), Rack 05",APC,AP7921,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,Rack 5
+ham-pdu-8,"Hamburg, Germany",APC,AP7951,v3.7.4,Good,6.4,,,,,,,,,,,,1472.0,1472.0,,1st fl 
+pdu-mun04-a,"DE-Munich Uptown, IDC 4 (4??), Rack 01",APC,AP7921,v3.7.4,Good,1.5,,,,,,,,,,,,312.0,312.0,,Rack 1
+ham-pdu-7,"Hamburg, Germany",APC,AP7951,v3.7.4,Good,4.5,,,,,,,,,,,,1035.0,1035.0,,1st fl 
+pdu-mun06-c,"DE-Munich Uptown, IDC 6.2 (6??), Rack 01",APC,AP7921,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,Rack 1
+RackPDU,Unknown,APC,AP7921,v3.7.4,Critical,,,,,,,,,,,,,,,,""
+Zurich PDU,"Zurich , Switzerland",APC,AP7920,v3.7.4,Good,1.2,,,,,,,,,,,,249.0,249.0,,Cab 1
+RackPDU,Unknown,APC,AP7830,v3.7.4,Good,5.6,,,,,,,,,,,,672.0,672.0,,Minnesota
+PDU-BUC-5,Bucharest,APC,AP7952,v3.7.4,Good,1.1,,,,,,,,,,,,132.0,132.0,,CAB C
+paris-pdu-2,Paris,APC,AP7952,v3.7.4,Critical,,,,,,,,,,,,,,,,Rack 1
+RackPDU,Singapore,APC,AP7921,v3.7.4,Good,1.2,,,,,,,,,,,,249.0,249.0,,Rack 1
+Dublin MDC - Cabinet PDU 2,"Dublin, Ireland",APC,AP7952,v3.7.4,Good,4.3,,,,,,,,,,,,516.0,516.0,,Cabinet 2
+Seoul PDU 1,"Seoul, Korea",APC,AP7921,v3.7.4,Critical,,,,,,,,,,,,,,,,Cab 1
+Edinburgh-pdu-1,Edinburgh MDC Cab 2,APC,AP7951,v3.7.4,Good,2.5,,,,,,,,,,,,300.0,300.0,,Cabinet 1
+ham-pdu-10,"Hamburg, Germany",APC,AP7951,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,1st fl 
+pdu-mun05-e,"DE-Munich Uptown, MDC (524), Rack 02",APC,AP7921,v3.7.4,Good,3.7,,,,,,,,,,,,769.0,769.0,,Rack 2
+ham-pdu-4,"Hamburg, Germany",APC,AP7952,v3.7.4,Critical,3.4,,,,,,,,,,,,408.0,408.0,,1st fl 
+pdu-mun06-b,"DE-Munich Uptown, IDC 6.1 (6??), Rack 02",APC,AP7921,v3.7.4,Good,0.0,,,,,,,,,,,,0.0,0.0,,Rack 2
