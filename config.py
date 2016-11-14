@@ -10,7 +10,7 @@ import py.customparsers as cparsers
 #
 #
 #index 1
-#name in
+# name of field header
 #
 #index 2
 # name in target table
@@ -68,7 +68,7 @@ excel_config = {
             'fields': [
                 ['location', 'location', 'TEXT', None, None],
                 ['region', 'region', 'TEXT', None, None],
-                ['part', 'model', 'TEXT', None, None],
+                ['Contactpart', 'model', 'TEXT', None, None],
                 ['purchase', 'purchase_date', 'INTEGER', dutil.datetime_to_ordinal, None],
                 ['$/unit', 'cost', 'NUMERIC', None, None]
             ]},
